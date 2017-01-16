@@ -1,4 +1,4 @@
-(ns scrape.core
+(ns lcmap.tools
   (:require [cheshire.core :as json]
             [clojure.edn :as edn]
             [org.httpkit.client :as client]
