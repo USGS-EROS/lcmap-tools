@@ -56,7 +56,23 @@
   ""
   [path data]
   (printf "saving to %s" path)
-  (spit path (prn-str data)))
+  (let [writer (clojure.java.io/writer path)]
+    (clojure.pprint/pprint data writer)))
+
+(defn save-batch-info
+  ""
+  [batches ix]
+  (let [path (format "data/batch-%02d.edn" ix)
+        batch (nth batches ix)
+        sources (map scene->source (batch->scenes batch))]
+    (save path (doall sources))))
+
+(defn pretty-source
+  ""
+  [ix]
+  (-> (slurp (format "data/batch-%s.edn" ix))
+      (edn/read-string)
+      (clojure.pprint/pprint (clojure.java.io/writer (format "data/pretty-%s.edn" ix)))))
 
 (defn put-source!
   ""
@@ -68,18 +84,11 @@
       (:body)
       (json/decode)))
 
-(defn save-batch-info [batches ix]
-  (let [save-as (format "data/batch-%s.edn" ix)
-        batch (nth batches ix)]
-    (def batch (nth batch-list ix))
-    (def sources (map scene->source (batch->scenes batch)))
-    (save save-as (doall sources))))
-
 (comment
   (def base-url "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/washington/")
   (def batch-list (base->batch base-url))
-  (save-batch-info batch-list 1)
-  (doall (map (partial save-batch-info batch-list) (range 17 48)))
+  (save-batch-info batch-list 0)
+  #_(doall (map (partial save-batch-info batch-list) (range 17 48)))
   #_(def app-url "http://localhost:5678/landsat/source/")
   #_(map (partial put-source! app-url) source-list)
   #_(map save-batch-info (take 1 batch-list) (iterate inc 1)))
