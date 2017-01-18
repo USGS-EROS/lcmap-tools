@@ -121,3 +121,10 @@
   (def washington-inventory (doall (make-inventory (slurp "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/washington/output.txt"))))
   (def washington-grouped (group-by path-row washington-inventory))
   (pmap (fn [[path-row sources]] (save (format "washington/%s.edn" path-row) sources)) washington-grouped))
+
+(comment
+  "Ingest Washington state using cached source data"
+  (let [path "LC8041028"
+        url  "http://localhost:5678/landsat/source/"
+        source (edn/read-string (slurp (format "data/washington/%s.edn" path)))]
+    (map (partial put-source! url) source)))
