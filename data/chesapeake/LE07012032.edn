@@ -1,0 +1,2368 @@
+[{:id "LE070120321999188-SC20170106194316",
+  :checksum "3f59bb1eb52aa32f021355d31ee1aa93",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120321999188-SC20170106194316.tar.gz"}
+ {:id "LE070120321999204-SC20170106194359",
+  :checksum "5d7c8d9a9b0a157a46892c447f33c6e0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120321999204-SC20170106194359.tar.gz"}
+ {:id "LE070120321999236-SC20170106194328",
+  :checksum "226223ad4e8a6d3421c8664986ea6bc4",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120321999236-SC20170106194328.tar.gz"}
+ {:id "LE070120321999268-SC20170106194353",
+  :checksum "aa36ca1d51ad3b8c48f54f83788a7c4d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120321999268-SC20170106194353.tar.gz"}
+ {:id "LE070120321999284-SC20170106194427",
+  :checksum "5b8b932fa10bb145f6d002373dbde554",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120321999284-SC20170106194427.tar.gz"}
+ {:id "LE070120321999300-SC20170106194455",
+  :checksum "d34253ae7e7258bc248e08cc6b4387fd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120321999300-SC20170106194455.tar.gz"}
+ {:id "LE070120321999316-SC20170106194545",
+  :checksum "b07bd0b29e2cba374f8ea9fc5c804954",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120321999316-SC20170106194545.tar.gz"}
+ {:id "LE070120321999332-SC20170106194443",
+  :checksum "6790c3371f0508d0c41bd505b4f91613",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120321999332-SC20170106194443.tar.gz"}
+ {:id "LE070120321999364-SC20170106194517",
+  :checksum "61db84c2e2537d5140b5271cb49a7f74",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120321999364-SC20170106194517.tar.gz"}
+ {:id "LE070120322000015-SC20170106194516",
+  :checksum "f97b6f07bf37eb0b9ce32c037fd2212f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000015-SC20170106194516.tar.gz"}
+ {:id "LE070120322000063-SC20170106194509",
+  :checksum "302dab84365582e1b36b592c10243f96",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000063-SC20170106194509.tar.gz"}
+ {:id "LE070120322000079-SC20170106194511",
+  :checksum "c3995644d2bea38478218b3eca0a2c0d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000079-SC20170106194511.tar.gz"}
+ {:id "LE070120322000111-SC20170106222312",
+  :checksum "2e0785551073cdf27788bdc5f9d7adeb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000111-SC20170106222312.tar.gz"}
+ {:id "LE070120322000127-SC20170106222019",
+  :checksum "08a67df511e0db54181df17cabb270fd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000127-SC20170106222019.tar.gz"}
+ {:id "LE070120322000159-SC20170106221654",
+  :checksum "52c91fc8b704ddb0a6f9b0d8f8a5a74e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000159-SC20170106221654.tar.gz"}
+ {:id "LE070120322000175-SC20170106221722",
+  :checksum "cb4a5e7646d36df1a01f36976e370ea2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000175-SC20170106221722.tar.gz"}
+ {:id "LE070120322000191-SC20170106221738",
+  :checksum "e2393845280e7d44dca1f43c97d1f34c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000191-SC20170106221738.tar.gz"}
+ {:id "LE070120322000223-SC20170106221705",
+  :checksum "35c290c18b07d8abad82dbe377a62740",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000223-SC20170106221705.tar.gz"}
+ {:id "LE070120322000239-SC20170106194016",
+  :checksum "952f0c41b2bc8df41dc0290cad1ebcad",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000239-SC20170106194016.tar.gz"}
+ {:id "LE070120322000255-SC20170106193737",
+  :checksum "3a6572ea0af4a39a3b9e6fed235a357f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000255-SC20170106193737.tar.gz"}
+ {:id "LE070120322000271-SC20170106193926",
+  :checksum "9af1f089c48fba28b7ed1de59bc8c041",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000271-SC20170106193926.tar.gz"}
+ {:id "LE070120322000287-SC20170106193809",
+  :checksum "bbc01d23d19e1046f71928987b53bfac",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000287-SC20170106193809.tar.gz"}
+ {:id "LE070120322000303-SC20170106193915",
+  :checksum "18f81ada073d261fb758f01b121897ee",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322000303-SC20170106193915.tar.gz"}
+ {:id "LE070120322001001-SC20170106193824",
+  :checksum "0339813a0cb4414381e04e29cae90889",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001001-SC20170106193824.tar.gz"}
+ {:id "LE070120322001017-SC20170106193927",
+  :checksum "6f07004d6521fa3fa279d7c9abb76671",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001017-SC20170106193927.tar.gz"}
+ {:id "LE070120322001033-SC20170106194210",
+  :checksum "2435925a6bbfbf5c821273a6cfcd7ffc",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001033-SC20170106194210.tar.gz"}
+ {:id "LE070120322001049-SC20170106193937",
+  :checksum "264bb3f05c4aa272518602bd76cc3aaa",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001049-SC20170106193937.tar.gz"}
+ {:id "LE070120322001097-SC20170106193820",
+  :checksum "25a9826deb8c3ccfe404ae413c28f377",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001097-SC20170106193820.tar.gz"}
+ {:id "LE070120322001113-SC20170106193850",
+  :checksum "d8da34b390ed7b1ee3e4b42984a98a15",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001113-SC20170106193850.tar.gz"}
+ {:id "LE070120322001129-SC20170106193804",
+  :checksum "20dda12aa261d17bbdd5454b361fd571",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001129-SC20170106193804.tar.gz"}
+ {:id "LE070120322001161-SC20170106193837",
+  :checksum "163841cb9c3fb7312d1a3bdf5411c0f8",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001161-SC20170106193837.tar.gz"}
+ {:id "LE070120322001177-SC20170106193820",
+  :checksum "1705460af26ba04e67045d66a5e1a383",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001177-SC20170106193820.tar.gz"}
+ {:id "LE070120322001193-SC20170106193742",
+  :checksum "46d520482c70c781d722f70032f3a596",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001193-SC20170106193742.tar.gz"}
+ {:id "LE070120322001209-SC20170106194027",
+  :checksum "2c87cfcda3e6189e990bc5e0dfea3519",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001209-SC20170106194027.tar.gz"}
+ {:id "LE070120322001241-SC20170106193912",
+  :checksum "312977ffce1f0dd8107b78f3fe6e2de9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001241-SC20170106193912.tar.gz"}
+ {:id "LE070120322001289-SC20170106193910",
+  :checksum "cfb652628bf01360a7b42d361fc4a3f6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001289-SC20170106193910.tar.gz"}
+ {:id "LE070120322001305-SC20170106193905",
+  :checksum "ca41578bd4c604c5b8cd9846a26ce407",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001305-SC20170106193905.tar.gz"}
+ {:id "LE070120322001321-SC20170106193928",
+  :checksum "d02aef3b8142c2cc7cae6fca18db6f6a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001321-SC20170106193928.tar.gz"}
+ {:id "LE070120322001337-SC20170106193910",
+  :checksum "9ab6d5afb16d46eba240e402c871c1eb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001337-SC20170106193910.tar.gz"}
+ {:id "LE070120322001353-SC20170106193959",
+  :checksum "214d9543bb99fe0226a708512a4f0a61",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322001353-SC20170106193959.tar.gz"}
+ {:id "LE070120322002004-SC20170106193929",
+  :checksum "9a99d2902d576dc9b60935d78d9e9a46",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002004-SC20170106193929.tar.gz"}
+ {:id "LE070120322002020-SC20170106193935",
+  :checksum "5f65c340d2461586359b7c6c70145701",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002020-SC20170106193935.tar.gz"}
+ {:id "LE070120322002036-SC20170106194049",
+  :checksum "17b361066155e3903c2a39481e5b0ca5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002036-SC20170106194049.tar.gz"}
+ {:id "LE070120322002068-SC20170106194010",
+  :checksum "702df5a6e20e455c234ddd02fb19a3cd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002068-SC20170106194010.tar.gz"}
+ {:id "LE070120322002100-SC20170106193924",
+  :checksum "f92e9bb19b31e3d0155bcb7ce61a0438",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002100-SC20170106193924.tar.gz"}
+ {:id "LE070120322002116-SC20170106193913",
+  :checksum "36d7f533ffda4fac709eee26d07294b2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002116-SC20170106193913.tar.gz"}
+ {:id "LE070120322002148-SC20170106193936",
+  :checksum "6f54be5f8d54a3c9cf9f16a129fa86fe",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002148-SC20170106193936.tar.gz"}
+ {:id "LE070120322002180-SC20170106193851",
+  :checksum "5386da56b38cdea34a7d64c7b53079b1",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002180-SC20170106193851.tar.gz"}
+ {:id "LE070120322002196-SC20170106193803",
+  :checksum "139776ca37db54e2cd2816c16279bcda",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002196-SC20170106193803.tar.gz"}
+ {:id "LE070120322002212-SC20170106193949",
+  :checksum "d27752e68b257579f3ae0b2d45e794ac",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002212-SC20170106193949.tar.gz"}
+ {:id "LE070120322002228-SC20170106194424",
+  :checksum "406eaf4af4f51615557ad5afd2fc68cd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002228-SC20170106194424.tar.gz"}
+ {:id "LE070120322002260-SC20170106193854",
+  :checksum "3897778987647765eb161bb949ec789a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002260-SC20170106193854.tar.gz"}
+ {:id "LE070120322002276-SC20170106193953",
+  :checksum "b5d5894c7fff4fee0b0e030d6c5b7c6c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002276-SC20170106193953.tar.gz"}
+ {:id "LE070120322002308-SC20170106194319",
+  :checksum "a8de5d8ce6ff4b381ff2f931c84c03eb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002308-SC20170106194319.tar.gz"}
+ {:id "LE070120322002324-SC20170106194202",
+  :checksum "e5ae179ef67502b596f1dcbde78909cf",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322002324-SC20170106194202.tar.gz"}
+ {:id "LE070120322003007-SC20170106194033",
+  :checksum "7af37b1395f3f60d8c44fde3d9b58a5f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003007-SC20170106194033.tar.gz"}
+ {:id "LE070120322003023-SC20170106194024",
+  :checksum "8346d22e8e9acb680b4e2f788477459f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003023-SC20170106194024.tar.gz"}
+ {:id "LE070120322003039-SC20170106194219",
+  :checksum "3659dbba8b98ea894af6800fd1ccede2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003039-SC20170106194219.tar.gz"}
+ {:id "LE070120322003055-SC20170106194159",
+  :checksum "6e10df2cd3aadefc2566821744634f09",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003055-SC20170106194159.tar.gz"}
+ {:id "LE070120322003071-SC20170106194134",
+  :checksum "7a7ccf9d99954b39fa77fb8d9527114d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003071-SC20170106194134.tar.gz"}
+ {:id "LE070120322003087-SC20170106194004",
+  :checksum "21ba3f836d8a18eaf0f4000cdcffe921",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003087-SC20170106194004.tar.gz"}
+ {:id "LE070120322003103-SC20170106194021",
+  :checksum "4bbf8586dc7ca3362e105080e69e743a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003103-SC20170106194021.tar.gz"}
+ {:id "LE070120322003119-SC20170106220941",
+  :checksum "b5c59e425c7e51ff295edfdd7295dbb9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003119-SC20170106220941.tar.gz"}
+ {:id "LE070120322003135-SC20170106220956",
+  :checksum "47e6f42e8acecbb6a34e779a49cf8f9f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003135-SC20170106220956.tar.gz"}
+ {:id "LE070120322003151-SC20170106221017",
+  :checksum "0f03f3ed579d3d8c8d323c281ccdcdd1",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003151-SC20170106221017.tar.gz"}
+ {:id "LE070120322003199-SC20170106220925",
+  :checksum "b7de1ab85ba1df609af2f0d8e610f8da",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003199-SC20170106220925.tar.gz"}
+ {:id "LE070120322003215-SC20170106220937",
+  :checksum "c5cef330883a69f4005a59539ff8a1e8",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003215-SC20170106220937.tar.gz"}
+ {:id "LE070120322003231-SC20170106220921",
+  :checksum "4f07130f824548d1fbe8618704124fe3",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003231-SC20170106220921.tar.gz"}
+ {:id "LE070120322003263-SC20170106221009",
+  :checksum "877e08c7fa65ce04fa90d01c11283ac7",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003263-SC20170106221009.tar.gz"}
+ {:id "LE070120322003279-SC20170106221026",
+  :checksum "66b36bdde8df7dcde15dbaf50cf05e5c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003279-SC20170106221026.tar.gz"}
+ {:id "LE070120322003311-SC20170106221102",
+  :checksum "faf5f588e0b85623fc248a37e82aabbe",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003311-SC20170106221102.tar.gz"}
+ {:id "LE070120322003327-SC20170106221104",
+  :checksum "bdde428a44b40f5e05e4ebe1c1905635",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322003327-SC20170106221104.tar.gz"}
+ {:id "LE070120322004010-SC20170106221100",
+  :checksum "048fbc6667772b7d459099a95f43f4e6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004010-SC20170106221100.tar.gz"}
+ {:id "LE070120322004026-SC20170106221112",
+  :checksum "de3124a2535be6d4684d73fef8cbd032",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004026-SC20170106221112.tar.gz"}
+ {:id "LE070120322004042-SC20170106221132",
+  :checksum "682fa20b68bb35cb1cdb834dec7cd4cc",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004042-SC20170106221132.tar.gz"}
+ {:id "LE070120322004058-SC20170106221056",
+  :checksum "008316139534466a67564273924938da",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004058-SC20170106221056.tar.gz"}
+ {:id "LE070120322004074-SC20170106221121",
+  :checksum "661f60f43adf5d2fd5b9e6dfd1201fc4",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004074-SC20170106221121.tar.gz"}
+ {:id "LE070120322004122-SC20170106221041",
+  :checksum "2ad4a0deb9dfa308cb7ab926377669ee",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004122-SC20170106221041.tar.gz"}
+ {:id "LE070120322004154-SC20170106221031",
+  :checksum "c3829ee97922ea532de41968598aae87",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004154-SC20170106221031.tar.gz"}
+ {:id "LE070120322004170-SC20170106221022",
+  :checksum "07e62527e5bc44021eb7d2de13e1121b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004170-SC20170106221022.tar.gz"}
+ {:id "LE070120322004186-SC20170106221031",
+  :checksum "0470cdb976b0ce5d40fecc5107b4568e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004186-SC20170106221031.tar.gz"}
+ {:id "LE070120322004202-SC20170106221109",
+  :checksum "fa0c9a1e3dd5a89d46b4b2439b2c175a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004202-SC20170106221109.tar.gz"}
+ {:id "LE070120322004250-SC20170106221105",
+  :checksum "6004d85fa8d18430564a361053bbe0ae",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004250-SC20170106221105.tar.gz"}
+ {:id "LE070120322004266-SC20170106221116",
+  :checksum "5469153ff418caafd935cf84ee8441d0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004266-SC20170106221116.tar.gz"}
+ {:id "LE070120322004282-SC20170106221100",
+  :checksum "5da2dc5f32c5256927ccda5f2e0273cc",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004282-SC20170106221100.tar.gz"}
+ {:id "LE070120322004314-SC20170106221111",
+  :checksum "8f7ac9accd76f00af618b1d537b9a60f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004314-SC20170106221111.tar.gz"}
+ {:id "LE070120322004362-SC20170106221119",
+  :checksum "b0840c41dee73db5343d5128465db93e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322004362-SC20170106221119.tar.gz"}
+ {:id "LE070120322005028-SC20170106221133",
+  :checksum "656d6e1513f2b6ecc7ea602818e5c67a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005028-SC20170106221133.tar.gz"}
+ {:id "LE070120322005044-SC20170106221146",
+  :checksum "86ba46d73ed6e8d64b47ff7bbb2dbc21",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005044-SC20170106221146.tar.gz"}
+ {:id "LE070120322005076-SC20170106221105",
+  :checksum "ebb53cc6a1bb7dd0c1080a4a9780263c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005076-SC20170106221105.tar.gz"}
+ {:id "LE070120322005108-SC20170106221151",
+  :checksum "fe92bac4d11f499c273d3bffcc3ebcfb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005108-SC20170106221151.tar.gz"}
+ {:id "LE070120322005124-SC20170106185018",
+  :checksum "45704ef80826029d66122effa1ea2891",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005124-SC20170106185018.tar.gz"}
+ {:id "LE070120322005156-SC20170106185019",
+  :checksum "303617a70048c74b1d62d907f830710c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005156-SC20170106185019.tar.gz"}
+ {:id "LE070120322005172-SC20170106185038",
+  :checksum "a1cffebd4f093af807389eb64ea79d5b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005172-SC20170106185038.tar.gz"}
+ {:id "LE070120322005204-SC20170106185019",
+  :checksum "dabdae931b0a39b0a2cd65ffd4ce056f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005204-SC20170106185019.tar.gz"}
+ {:id "LE070120322005220-SC20170106185221",
+  :checksum "030fd923aacd43ae9763781e3937b21e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005220-SC20170106185221.tar.gz"}
+ {:id "LE070120322005236-SC20170106185313",
+  :checksum "9a4ae3e9d520050e4a025f097da45660",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005236-SC20170106185313.tar.gz"}
+ {:id "LE070120322005252-SC20170106185258",
+  :checksum "b75d7f4dcaad7527314296d402e14bf0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005252-SC20170106185258.tar.gz"}
+ {:id "LE070120322005268-SC20170106185257",
+  :checksum "899299a00b8820e05baf04e2db3a1b42",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005268-SC20170106185257.tar.gz"}
+ {:id "LE070120322005300-SC20170106185334",
+  :checksum "aca843407c2806eca2f743b7f59f135c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005300-SC20170106185334.tar.gz"}
+ {:id "LE070120322005316-SC20170106185130",
+  :checksum "7636aa2179e1de63fdc7271f68f4ca34",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005316-SC20170106185130.tar.gz"}
+ {:id "LE070120322005332-SC20170106185149",
+  :checksum "a59378c1f7ba686694cb4d9ac0e604a2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005332-SC20170106185149.tar.gz"}
+ {:id "LE070120322005348-SC20170106185353",
+  :checksum "2e02e74a87b49aa509c27d1d68024d19",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005348-SC20170106185353.tar.gz"}
+ {:id "LE070120322005364-SC20170106185158",
+  :checksum "60cac0162747ead60b0a48eb9ffeea27",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322005364-SC20170106185158.tar.gz"}
+ {:id "LE070120322006047-SC20170106184951",
+  :checksum "877be0e7a0f4f43725d706da64418969",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006047-SC20170106184951.tar.gz"}
+ {:id "LE070120322006063-SC20170106185226",
+  :checksum "4bbd1508a2e95139ccc9e6ba9ff8ab9b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006063-SC20170106185226.tar.gz"}
+ {:id "LE070120322006079-SC20170106185207",
+  :checksum "97e8151e4b6542172b41519c51cbd8b9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006079-SC20170106185207.tar.gz"}
+ {:id "LE070120322006095-SC20170106185159",
+  :checksum "23726b1e0da6c2fb9a02072aa0978bb6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006095-SC20170106185159.tar.gz"}
+ {:id "LE070120322006111-SC20170106185150",
+  :checksum "a64ff1a1c7aafb0ec5b919455a10d583",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006111-SC20170106185150.tar.gz"}
+ {:id "LE070120322006143-SC20170106185208",
+  :checksum "d939bb8bee607179c9f7dfe2dc1607e8",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006143-SC20170106185208.tar.gz"}
+ {:id "LE070120322006191-SC20170106185159",
+  :checksum "65287bb2bd30e211dd089309a62959da",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006191-SC20170106185159.tar.gz"}
+ {:id "LE070120322006207-SC20170106185156",
+  :checksum "4fbdddef20c2a360cf980eb4737382b9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006207-SC20170106185156.tar.gz"}
+ {:id "LE070120322006223-SC20170106185159",
+  :checksum "a075224a3a7b2724ee92fce5d8163e65",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006223-SC20170106185159.tar.gz"}
+ {:id "LE070120322006255-SC20170106185348",
+  :checksum "bbf6727d3dc493f98ec29fa38650640b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006255-SC20170106185348.tar.gz"}
+ {:id "LE070120322006271-SC20170106185232",
+  :checksum "f028b93b6caefbcbf958077ab9710b7f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006271-SC20170106185232.tar.gz"}
+ {:id "LE070120322006287-SC20170106185246",
+  :checksum "287a02fd7b5e82595ffd5023e5258e41",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006287-SC20170106185246.tar.gz"}
+ {:id "LE070120322006303-SC20170106185253",
+  :checksum "b2665f00871383270ec29c73792ee845",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006303-SC20170106185253.tar.gz"}
+ {:id "LE070120322006351-SC20170106185312",
+  :checksum "b5ec3eb54c0abe2ee2ee578dcc6b39a9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322006351-SC20170106185312.tar.gz"}
+ {:id "LE070120322007002-SC20170106185333",
+  :checksum "c1903e22011c884a3971f4c8520f0d2d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007002-SC20170106185333.tar.gz"}
+ {:id "LE070120322007034-SC20170106185251",
+  :checksum "28bc9239df077668b16f54384dd07a65",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007034-SC20170106185251.tar.gz"}
+ {:id "LE070120322007050-SC20170106185331",
+  :checksum "e3d6413d2c9fdaac65bc8c8b4871d78c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007050-SC20170106185331.tar.gz"}
+ {:id "LE070120322007178-SC20170106185249",
+  :checksum "9a142e947058e5f22732c4af7afee020",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007178-SC20170106185249.tar.gz"}
+ {:id "LE070120322007194-SC20170106185228",
+  :checksum "44476fca2047703af3c3760278bd823e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007194-SC20170106185228.tar.gz"}
+ {:id "LE070120322007210-SC20170106185821",
+  :checksum "f502147aa53d6c3935aa4c9192513711",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007210-SC20170106185821.tar.gz"}
+ {:id "LE070120322007226-SC20170106185720",
+  :checksum "ddb6978ad306a7b6d1bacde522c63f39",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007226-SC20170106185720.tar.gz"}
+ {:id "LE070120322007242-SC20170106185448",
+  :checksum "a8f98eefd7124877a61b52b3828a47ee",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007242-SC20170106185448.tar.gz"}
+ {:id "LE070120322007274-SC20170106185517",
+  :checksum "f93b5ae2f329f5a5c6eafa335d6611f5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007274-SC20170106185517.tar.gz"}
+ {:id "LE070120322007290-SC20170106185439",
+  :checksum "522300be2bd2f631ad9e07869239b021",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007290-SC20170106185439.tar.gz"}
+ {:id "LE070120322007306-SC20170106184946",
+  :checksum "900aa9c8ce83e7ea244d334e421e14db",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007306-SC20170106184946.tar.gz"}
+ {:id "LE070120322007322-SC20170106185009",
+  :checksum "ae6986fc09732071637b3fd6ee9987b5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007322-SC20170106185009.tar.gz"}
+ {:id "LE070120322007354-SC20170106184054",
+  :checksum "44566f33ed69c740253fb00d6df8974d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322007354-SC20170106184054.tar.gz"}
+ {:id "LE070120322008005-SC20170106184047",
+  :checksum "396cbd86c2907b066f2cf2518d0c296e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322008005-SC20170106184047.tar.gz"}
+ {:id "LE070120322008021-SC20170106183749",
+  :checksum "3d68e5880cfa50ebd676bc9f9e52bd41",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322008021-SC20170106183749.tar.gz"}
+ {:id "LE070120322008197-SC20170106183614",
+  :checksum "e86289906c801ee82f38303ddd7137a7",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322008197-SC20170106183614.tar.gz"}
+ {:id "LE070120322008213-SC20170106183633",
+  :checksum "a228b0cb25720e40a0f3edd021f32c0f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322008213-SC20170106183633.tar.gz"}
+ {:id "LE070120322008229-SC20170106183657",
+  :checksum "05c7969d52f6f908ccba0a5e1d83335a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322008229-SC20170106183657.tar.gz"}
+ {:id "LE070120322008245-SC20170106183646",
+  :checksum "c5403986bfbd5fbf9809af00c4df0514",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322008245-SC20170106183646.tar.gz"}
+ {:id "LE070120322008261-SC20170106183651",
+  :checksum "c78477f7b4844ab7acee5afc9c9804aa",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322008261-SC20170106183651.tar.gz"}
+ {:id "LE070120322008277-SC20170106183717",
+  :checksum "dbfee0f69b4a838b31b0c7e10c99cfcb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322008277-SC20170106183717.tar.gz"}
+ {:id "LE070120322008309-SC20170106183743",
+  :checksum "fcadd39feffd61a049fb764824cb0cf8",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322008309-SC20170106183743.tar.gz"}
+ {:id "LE070120322008341-SC20170106183923",
+  :checksum "8c97ce222ccc159e09c94535e9a28033",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322008341-SC20170106183923.tar.gz"}
+ {:id "LE070120322008357-SC20170106183734",
+  :checksum "74dd92fd4cede488f3435078c8b02ee5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322008357-SC20170106183734.tar.gz"}
+ {:id "LE070120322009023-SC20170106183724",
+  :checksum "6b34829a09ec7e8d53736c2b7086efcd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009023-SC20170106183724.tar.gz"}
+ {:id "LE070120322009039-SC20170106183809",
+  :checksum "997abe0bcf010c04338feb421cf47324",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009039-SC20170106183809.tar.gz"}
+ {:id "LE070120322009055-SC20170106183824",
+  :checksum "06c16a056a5b46f4cddc6ec3fc4c2dcd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009055-SC20170106183824.tar.gz"}
+ {:id "LE070120322009071-SC20170106183809",
+  :checksum "56d1ec80bf921b195e07b8c8e7c1de74",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009071-SC20170106183809.tar.gz"}
+ {:id "LE070120322009087-SC20170106183716",
+  :checksum "22d05ca6ba40ab20d02b7f1e5b8b719e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009087-SC20170106183716.tar.gz"}
+ {:id "LE070120322009103-SC20170106183750",
+  :checksum "45f808368ec97dcb25d98747b591afe8",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009103-SC20170106183750.tar.gz"}
+ {:id "LE070120322009119-SC20170106183905",
+  :checksum "710b00bdc0f16501c70cb3713e6982e5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009119-SC20170106183905.tar.gz"}
+ {:id "LE070120322009135-SC20170106183756",
+  :checksum "2746f7578c66347e2dd9522995019616",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009135-SC20170106183756.tar.gz"}
+ {:id "LE070120322009183-SC20170106183838",
+  :checksum "e91c8a443d2874d21e5df55b045cd559",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009183-SC20170106183838.tar.gz"}
+ {:id "LE070120322009199-SC20170106183841",
+  :checksum "b7cd3d2118f62e642bc70ba11a98c984",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009199-SC20170106183841.tar.gz"}
+ {:id "LE070120322009215-SC20170106183839",
+  :checksum "528f9746ae331992b684aca76bab299f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009215-SC20170106183839.tar.gz"}
+ {:id "LE070120322009231-SC20170106183847",
+  :checksum "2b90b680f8302479fd248b34a5cdb4db",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009231-SC20170106183847.tar.gz"}
+ {:id "LE070120322009247-SC20170106184022",
+  :checksum "f2457eb76cae1c8309ab71bc015c34f3",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009247-SC20170106184022.tar.gz"}
+ {:id "LE070120322009263-SC20170106183851",
+  :checksum "bb854e3ee4f67049c151f11e90341413",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009263-SC20170106183851.tar.gz"}
+ {:id "LE070120322009295-SC20170106183909",
+  :checksum "2f6813c93f8a5464ff4ccf941728269c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009295-SC20170106183909.tar.gz"}
+ {:id "LE070120322009311-SC20170106183915",
+  :checksum "76f9804643317518dc67a0c3661b011f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322009311-SC20170106183915.tar.gz"}
+ {:id "LE070120322010010-SC20170106183948",
+  :checksum "46beced812901b4c6d02ec8be72ea0a6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010010-SC20170106183948.tar.gz"}
+ {:id "LE070120322010026-SC20170106184139",
+  :checksum "dafd6e6cd32480315050db3f23917282",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010026-SC20170106184139.tar.gz"}
+ {:id "LE070120322010042-SC20170106184122",
+  :checksum "de09c81f047b44210095bebc539598f2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010042-SC20170106184122.tar.gz"}
+ {:id "LE070120322010106-SC20170106183938",
+  :checksum "c54507728933834582fe1a53f4cc899b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010106-SC20170106183938.tar.gz"}
+ {:id "LE070120322010170-SC20170106183847",
+  :checksum "f6ee8ee293c862587fb1cfbc9c6f77c7",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010170-SC20170106183847.tar.gz"}
+ {:id "LE070120322010186-SC20170106183903",
+  :checksum "188b69870f0efe18e057ce1048207762",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010186-SC20170106183903.tar.gz"}
+ {:id "LE070120322010202-SC20170106183952",
+  :checksum "7d5f8f9e19905f3af285061c47c0dbad",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010202-SC20170106183952.tar.gz"}
+ {:id "LE070120322010218-SC20170106183931",
+  :checksum "9dbf232f7e1d117df71fd9ce4676684a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010218-SC20170106183931.tar.gz"}
+ {:id "LE070120322010250-SC20170106183947",
+  :checksum "f55207c555e2c3974d1feb027aff79ba",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010250-SC20170106183947.tar.gz"}
+ {:id "LE070120322010266-SC20170106184128",
+  :checksum "6a59a81cf5b23f02ec1ab9dd3a96de8f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010266-SC20170106184128.tar.gz"}
+ {:id "LE070120322010282-SC20170106184017",
+  :checksum "c04bd15c1090b556f02882bed7debac6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010282-SC20170106184017.tar.gz"}
+ {:id "LE070120322010298-SC20170106183950",
+  :checksum "663c2d8c520f724775f6434ac09bde0a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010298-SC20170106183950.tar.gz"}
+ {:id "LE070120322010362-SC20170106184054",
+  :checksum "eaa89dbb7ba2c01d06f9d65e4f5071ac",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322010362-SC20170106184054.tar.gz"}
+ {:id "LE070120322011013-SC20170106184030",
+  :checksum "45c66e2ee86f5b66cf37ca3b23508567",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011013-SC20170106184030.tar.gz"}
+ {:id "LE070120322011029-SC20170106184108",
+  :checksum "ba762835389f39a2f1a77f4b9bd10462",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011029-SC20170106184108.tar.gz"}
+ {:id "LE070120322011045-SC20170106184028",
+  :checksum "b0ae1c272b1dbad759f81fdcdff7de8b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011045-SC20170106184028.tar.gz"}
+ {:id "LE070120322011061-SC20170106184041",
+  :checksum "29a9c829e72cdf034d2e74e81720f564",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011061-SC20170106184041.tar.gz"}
+ {:id "LE070120322011077-SC20170106184023",
+  :checksum "bc40d29d870689df251660d5ff3e1c20",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011077-SC20170106184023.tar.gz"}
+ {:id "LE070120322011093-SC20170106184144",
+  :checksum "5c72d958c961e68ef3bb8682ce3b15b5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011093-SC20170106184144.tar.gz"}
+ {:id "LE070120322011125-SC20170106184159",
+  :checksum "fc80bf2e3c52b99b809dfdaafab6cf24",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011125-SC20170106184159.tar.gz"}
+ {:id "LE070120322011141-SC20170106213649",
+  :checksum "44f04122ec4503a1675e6fa0146507c7",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011141-SC20170106213649.tar.gz"}
+ {:id "LE070120322011157-SC20170106195642",
+  :checksum "3798c39c7cc35613f925ceca56ed3c8d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011157-SC20170106195642.tar.gz"}
+ {:id "LE070120322011189-SC20170106195220",
+  :checksum "b2c19661ca92f12bf103cd528a8ff943",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011189-SC20170106195220.tar.gz"}
+ {:id "LE070120322011221-SC20170106195622",
+  :checksum "e8cadd7c4e5fa5d653dc0cdd59a850b3",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011221-SC20170106195622.tar.gz"}
+ {:id "LE070120322011237-SC20170106195228",
+  :checksum "79703c7e349604f7247a517c4e3b519c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011237-SC20170106195228.tar.gz"}
+ {:id "LE070120322011253-SC20170106195301",
+  :checksum "81ff79bcd9c23f281be8dd4679a6e424",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011253-SC20170106195301.tar.gz"}
+ {:id "LE070120322011269-SC20170106195405",
+  :checksum "0c4ebeacbc138d82ad99b570b75c8816",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011269-SC20170106195405.tar.gz"}
+ {:id "LE070120322011301-SC20170106195454",
+  :checksum "964bdba7161785604b625061bd376ebb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011301-SC20170106195454.tar.gz"}
+ {:id "LE070120322011317-SC20170106195411",
+  :checksum "c5298f6f7beb44c425671190b43a7e49",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322011317-SC20170106195411.tar.gz"}
+ {:id "LE070120322012016-SC20170106195430",
+  :checksum "57fb61bf2692fd21b8bd122bfe5b87f0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012016-SC20170106195430.tar.gz"}
+ {:id "LE070120322012032-SC20170106195601",
+  :checksum "633d05ebc288e07509872de5ed90d68a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012032-SC20170106195601.tar.gz"}
+ {:id "LE070120322012080-SC20170106195435",
+  :checksum "a980298ac4fe73e035a5439f6e10be09",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012080-SC20170106195435.tar.gz"}
+ {:id "LE070120322012096-SC20170106195434",
+  :checksum "f77ba900c396d03af7264206ff3f50b0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012096-SC20170106195434.tar.gz"}
+ {:id "LE070120322012112-SC20170106195407",
+  :checksum "388289da5793aa0a25487f4babc4aa81",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012112-SC20170106195407.tar.gz"}
+ {:id "LE070120322012128-SC20170106195424",
+  :checksum "32f4576a5f955ad6ef4802e6f70a6ed1",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012128-SC20170106195424.tar.gz"}
+ {:id "LE070120322012144-SC20170106195231",
+  :checksum "bda474e4fdbed4a1f4b670cbd457ac1b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012144-SC20170106195231.tar.gz"}
+ {:id "LE070120322012176-SC20170106195555",
+  :checksum "9d7916a797a3ba06377c20860b33577e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012176-SC20170106195555.tar.gz"}
+ {:id "LE070120322012192-SC20170106195431",
+  :checksum "7c2b052ec1cbf1db4b5789a8a5803150",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012192-SC20170106195431.tar.gz"}
+ {:id "LE070120322012224-SC20170106195553",
+  :checksum "36fa4cb82dc62e152899ced0a52d526b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012224-SC20170106195553.tar.gz"}
+ {:id "LE070120322012240-SC20170106195426",
+  :checksum "723058a1be905678d310e84218592ae1",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012240-SC20170106195426.tar.gz"}
+ {:id "LE070120322012256-SC20170106195422",
+  :checksum "4af243891b7ea80a8d1f9e7a4a9ef188",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012256-SC20170106195422.tar.gz"}
+ {:id "LE070120322012288-SC20170106195531",
+  :checksum "25fd6cf69ec1b06dad83985eec0cfba6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012288-SC20170106195531.tar.gz"}
+ {:id "LE070120322012304-SC20170106195608",
+  :checksum "6d0d831bf37fab75d51d5b14e17c6552",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322012304-SC20170106195608.tar.gz"}
+ {:id "LE070120322013002-SC20170106195511",
+  :checksum "bf3efbf3689d6bb0765817abc94e85e4",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013002-SC20170106195511.tar.gz"}
+ {:id "LE070120322013018-SC20170106195558",
+  :checksum "c1edd84c7bfc20a66d112862279d0261",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013018-SC20170106195558.tar.gz"}
+ {:id "LE070120322013034-SC20170106195445",
+  :checksum "8ad2d9b1e62d39dab076a8e9339f83e1",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013034-SC20170106195445.tar.gz"}
+ {:id "LE070120322013050-SC20170106195441",
+  :checksum "94b35c00293be788971882b121ada6f0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013050-SC20170106195441.tar.gz"}
+ {:id "LE070120322013082-SC20170106195437",
+  :checksum "7e54aa44b7dbfc72cd9a13cb452658c1",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013082-SC20170106195437.tar.gz"}
+ {:id "LE070120322013098-SC20170106195553",
+  :checksum "7bc803fc92882ecff05df04fbecd2f47",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013098-SC20170106195553.tar.gz"}
+ {:id "LE070120322013114-SC20170106195441",
+  :checksum "acc63116555f31077624d3165c5ab9ae",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013114-SC20170106195441.tar.gz"}
+ {:id "LE070120322013130-SC20170106195509",
+  :checksum "fa965eb6d6c2a735c84e262976914155",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013130-SC20170106195509.tar.gz"}
+ {:id "LE070120322013146-SC20170106213719",
+  :checksum "3c6baca9d39aaf75dbd5377778946fe6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013146-SC20170106213719.tar.gz"}
+ {:id "LE070120322013162-SC20170106213721",
+  :checksum "99c13dc787244ff4b71379237a9659d3",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013162-SC20170106213721.tar.gz"}
+ {:id "LE070120322013210-SC20170106213713",
+  :checksum "a186616e1a453787888b73f11b555585",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013210-SC20170106213713.tar.gz"}
+ {:id "LE070120322013226-SC20170106213710",
+  :checksum "1c4b5926a5f83ee4110ec9e33330c27b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013226-SC20170106213710.tar.gz"}
+ {:id "LE070120322013258-SC20170106213710",
+  :checksum "d1e294c0742492ad5156d61b00429e25",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013258-SC20170106213710.tar.gz"}
+ {:id "LE070120322013274-SC20170106213732",
+  :checksum "89add608d470701eb27353b49198ccae",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013274-SC20170106213732.tar.gz"}
+ {:id "LE070120322013306-SC20170106213753",
+  :checksum "553b68048b56b92699f47bc1fe73cb09",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013306-SC20170106213753.tar.gz"}
+ {:id "LE070120322013322-SC20170106213823",
+  :checksum "ca96418cd994a98b91838a22bbe150f0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013322-SC20170106213823.tar.gz"}
+ {:id "LE070120322013338-SC20170106213817",
+  :checksum "5238af85014a4ceb6b3cf7d93ab27f00",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013338-SC20170106213817.tar.gz"}
+ {:id "LE070120322013354-SC20170106213824",
+  :checksum "c216d870de123cb042ba7d2292a44af5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322013354-SC20170106213824.tar.gz"}
+ {:id "LE070120322014037-SC20170106213730",
+  :checksum "5bd9aa102d997746602db03ceef1fef7",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014037-SC20170106213730.tar.gz"}
+ {:id "LE070120322014053-SC20170106214741",
+  :checksum "6e7016164889858c99fc4bea0e1d204c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014053-SC20170106214741.tar.gz"}
+ {:id "LE070120322014085-SC20170106214833",
+  :checksum "7d9accc707ed4c8eaf3b0a5584699a5b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014085-SC20170106214833.tar.gz"}
+ {:id "LE070120322014101-SC20170106214444",
+  :checksum "ea8240b7a6e3504e3791469240a1e3e2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014101-SC20170106214444.tar.gz"}
+ {:id "LE070120322014117-SC20170106214456",
+  :checksum "04c5ffc182f0526557d1437e51962154",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014117-SC20170106214456.tar.gz"}
+ {:id "LE070120322014133-SC20170106185237",
+  :checksum "9401f501f402ab11c17cbd367a8529a5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014133-SC20170106185237.tar.gz"}
+ {:id "LE070120322014149-SC20170106184908",
+  :checksum "4a4620c1baebea82e0d29e54d0606904",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014149-SC20170106184908.tar.gz"}
+ {:id "LE070120322014165-SC20170106212952",
+  :checksum "d09aae63163b03f792566b0dfd667b59",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014165-SC20170106212952.tar.gz"}
+ {:id "LE070120322014181-SC20170106213014",
+  :checksum "f213cdea453890624e72e990d8c092ed",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014181-SC20170106213014.tar.gz"}
+ {:id "LE070120322014229-SC20170106213029",
+  :checksum "5b935f337810d368f3883d8c115af8a4",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014229-SC20170106213029.tar.gz"}
+ {:id "LE070120322014245-SC20170106213045",
+  :checksum "e086b3475c85671e2585792a79e095dd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014245-SC20170106213045.tar.gz"}
+ {:id "LE070120322014261-SC20170106213104",
+  :checksum "6859cec28dcc6582c03daccf12e1e02d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014261-SC20170106213104.tar.gz"}
+ {:id "LE070120322014293-SC20170106213052",
+  :checksum "ceccf2c0af0dfc4cdec253066b545770",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014293-SC20170106213052.tar.gz"}
+ {:id "LE070120322014309-SC20170106212115",
+  :checksum "0cc149c2465e25c86d89a686239c0c9a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014309-SC20170106212115.tar.gz"}
+ {:id "LE070120322014325-SC20170106212212",
+  :checksum "b3ebdf70700d111a6268d3f3053965b5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014325-SC20170106212212.tar.gz"}
+ {:id "LE070120322014341-SC20170106212201",
+  :checksum "131d32427d9eb5eec049365d78999e52",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322014341-SC20170106212201.tar.gz"}
+ {:id "LE070120322015008-SC20170106212254",
+  :checksum "ee04acdb070dde5221e57e6c34c8152c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015008-SC20170106212254.tar.gz"}
+ {:id "LE070120322015056-SC20170106212238",
+  :checksum "f0f9381e03c122df2e13141dd3275c9c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015056-SC20170106212238.tar.gz"}
+ {:id "LE070120322015072-SC20170106212238",
+  :checksum "ca451b83d1bddc4aa1d21bdeb34da231",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015072-SC20170106212238.tar.gz"}
+ {:id "LE070120322015088-SC20170106212210",
+  :checksum "3943105fc875d05f6199fc24de824ddc",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015088-SC20170106212210.tar.gz"}
+ {:id "LE070120322015120-SC20170106212140",
+  :checksum "05d3573a385675c061c7cb6a7f5b587e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015120-SC20170106212140.tar.gz"}
+ {:id "LE070120322015168-SC20170106212146",
+  :checksum "2e16facf859ec5f0b6ace17f33e470fe",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015168-SC20170106212146.tar.gz"}
+ {:id "LE070120322015184-SC20170106212200",
+  :checksum "77b3434ee832ce8aca97d58e760f6662",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015184-SC20170106212200.tar.gz"}
+ {:id "LE070120322015200-SC20170106212153",
+  :checksum "7c1527018090f2a859f0863c9d22e655",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015200-SC20170106212153.tar.gz"}
+ {:id "LE070120322015216-SC20170106212245",
+  :checksum "eeac955df2af577c1dc1109c7537ade9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015216-SC20170106212245.tar.gz"}
+ {:id "LE070120322015232-SC20170106213104",
+  :checksum "30149b20aa1e1be9520211b001a89d1a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015232-SC20170106213104.tar.gz"}
+ {:id "LE070120322015248-SC20170106213107",
+  :checksum "484ab87c89f15ff271cac7d2d2c755ec",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015248-SC20170106213107.tar.gz"}
+ {:id "LE070120322015264-SC20170106212847",
+  :checksum "ba633982d2328e4f2ebbcc2d5ed9e895",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015264-SC20170106212847.tar.gz"}
+ {:id "LE070120322015280-SC20170106212504",
+  :checksum "5bfecbff77dd8cac555d5cd05110f1e0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015280-SC20170106212504.tar.gz"}
+ {:id "LE070120322015296-SC20170106212858",
+  :checksum "d04ca029e506d03398abefd0705a909b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015296-SC20170106212858.tar.gz"}
+ {:id "LE070120322015312-SC20170106212811",
+  :checksum "80f6ce46aa3375666313e7cbfe4c905a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015312-SC20170106212811.tar.gz"}
+ {:id "LE070120322015328-SC20170106212813",
+  :checksum "36af9aaadc848e3ac2a2216c93b36b93",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015328-SC20170106212813.tar.gz"}
+ {:id "LE070120322015344-SC20170106212929",
+  :checksum "e6f5463c594ff1eaaecb28de5278b8eb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015344-SC20170106212929.tar.gz"}
+ {:id "LE070120322015360-SC20170106212904",
+  :checksum "4737b3db84bd5396384086e9d3c0ecb5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322015360-SC20170106212904.tar.gz"}
+ {:id "LE070120322016011-SC20170106212901",
+  :checksum "502f1b3f2854a8998c0108dc80f33055",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322016011-SC20170106212901.tar.gz"}
+ {:id "LE070120322016043-SC20170106212833",
+  :checksum "9feae530c432736086c698fb7a3209d9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322016043-SC20170106212833.tar.gz"}
+ {:id "LE070120322016059-SC20170106212841",
+  :checksum "48761b809e9cec375343cfa098b16e54",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322016059-SC20170106212841.tar.gz"}
+ {:id "LE070120322016091-SC20170106212823",
+  :checksum "4f83ad828b91cbc6bc82c9dc62d6783e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322016091-SC20170106212823.tar.gz"}
+ {:id "LE070120322016107-SC20170106212851",
+  :checksum "feca752265c447c1a8a6396e5499de63",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322016107-SC20170106212851.tar.gz"}
+ {:id "LE070120322016171-SC20170106212828",
+  :checksum "6c9bcb23292dba459a92eb20bf067b5f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322016171-SC20170106212828.tar.gz"}
+ {:id "LE070120322016203-SC20170106212851",
+  :checksum "edddca5994d339ffac3e5d2ca259ae38",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322016203-SC20170106212851.tar.gz"}
+ {:id "LE070120322016219-SC20170106212849",
+  :checksum "676533ab88c1818173c9811d7239d239",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322016219-SC20170106212849.tar.gz"}
+ {:id "LE070120322016235-SC20170106212847",
+  :checksum "5931a6bc67bc1bf6cdb5bb78d39c1400",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322016235-SC20170106212847.tar.gz"}
+ {:id "LE070120322016267-SC20170106212917",
+  :checksum "1e665ae0bcb4b90739db7b99366d84e7",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322016267-SC20170106212917.tar.gz"}
+ {:id "LE070120322016299-SC20170106212933",
+  :checksum "7c650d543d90df77ddee03c973b8c1a1",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322016299-SC20170106212933.tar.gz"}
+ {:id "LE070120322016315-SC20170106212934",
+  :checksum "e048ce9e7686d640a20a886b848518d0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125449-570/LE070120322016315-SC20170106212934.tar.gz"}
+ {:id "LE070120321999188-SC20170109194245",
+  :checksum "43f5339b9cba3fec763cd99353b5b0b3",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120321999188-SC20170109194245.tar.gz"}
+ {:id "LE070120321999204-SC20170109194321",
+  :checksum "cc1cc4cfa3dec97bf4700a2204ac3112",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120321999204-SC20170109194321.tar.gz"}
+ {:id "LE070120321999236-SC20170109194407",
+  :checksum "810ce31063ac58b7d69945f1a2d1dfa8",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120321999236-SC20170109194407.tar.gz"}
+ {:id "LE070120321999268-SC20170109194402",
+  :checksum "fe0a2e4c70df9d2e239677c60891ab8c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120321999268-SC20170109194402.tar.gz"}
+ {:id "LE070120321999284-SC20170109194403",
+  :checksum "4b770e16b8d29f59ebd69296e4c5f68a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120321999284-SC20170109194403.tar.gz"}
+ {:id "LE070120321999300-SC20170109194413",
+  :checksum "586ba3da0576ff781fc1164c2b1aa04c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120321999300-SC20170109194413.tar.gz"}
+ {:id "LE070120321999316-SC20170109194407",
+  :checksum "59b330e070c7bf1caae99515cebede2a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120321999316-SC20170109194407.tar.gz"}
+ {:id "LE070120321999332-SC20170109194336",
+  :checksum "7564c4a199b2f2f2d8db2776dd32dc54",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120321999332-SC20170109194336.tar.gz"}
+ {:id "LE070120321999364-SC20170109194355",
+  :checksum "2f2acfbe32f5fff15b2c78ac0468a27e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120321999364-SC20170109194355.tar.gz"}
+ {:id "LE070120322000015-SC20170109194359",
+  :checksum "6f49ebe4b45631218fff787a8f11e284",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000015-SC20170109194359.tar.gz"}
+ {:id "LE070120322000063-SC20170109194427",
+  :checksum "fecedab8f73218284e076d98df9e28f5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000063-SC20170109194427.tar.gz"}
+ {:id "LE070120322000079-SC20170109194357",
+  :checksum "0f425c72e93129ce104c0cfe40b3cd9d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000079-SC20170109194357.tar.gz"}
+ {:id "LE070120322000111-SC20170109194558",
+  :checksum "0cd5d83c9df54966cffe8b8e9ec18b87",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000111-SC20170109194558.tar.gz"}
+ {:id "LE070120322000127-SC20170109194357",
+  :checksum "1fda2d8addaee8fa173453d557af233d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000127-SC20170109194357.tar.gz"}
+ {:id "LE070120322000159-SC20170109194337",
+  :checksum "ae88d407ebc417aaa4680347eb173077",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000159-SC20170109194337.tar.gz"}
+ {:id "LE070120322000175-SC20170109194358",
+  :checksum "5c9e5507bd006475f66d64d530342d61",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000175-SC20170109194358.tar.gz"}
+ {:id "LE070120322000191-SC20170109194319",
+  :checksum "2d9ee7fa529abeacad0371c8a0ee892b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000191-SC20170109194319.tar.gz"}
+ {:id "LE070120322000223-SC20170109194445",
+  :checksum "6a6fb71826c0a59c3a3c836943b2b16d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000223-SC20170109194445.tar.gz"}
+ {:id "LE070120322000239-SC20170109193920",
+  :checksum "8666a1452ac86f6f0d700cd93f6bfa60",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000239-SC20170109193920.tar.gz"}
+ {:id "LE070120322000255-SC20170109193951",
+  :checksum "d41a39b5d50307d8477ee508c756bf87",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000255-SC20170109193951.tar.gz"}
+ {:id "LE070120322000271-SC20170109194032",
+  :checksum "b47c715679ed98d6a5c561f97dfdc9c5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000271-SC20170109194032.tar.gz"}
+ {:id "LE070120322000287-SC20170109194210",
+  :checksum "0987c5e960ea22b8558dd0ef06fa714f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000287-SC20170109194210.tar.gz"}
+ {:id "LE070120322000303-SC20170109194107",
+  :checksum "e4e02b69ca482a3318b883c80282a3a1",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322000303-SC20170109194107.tar.gz"}
+ {:id "LE070120322001001-SC20170109194241",
+  :checksum "16264f1e02f0fc05cbc5a5eb0ea57375",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001001-SC20170109194241.tar.gz"}
+ {:id "LE070120322001017-SC20170109194057",
+  :checksum "31cca26c11ba1e9bbcb32a933b3d55f2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001017-SC20170109194057.tar.gz"}
+ {:id "LE070120322001033-SC20170109194331",
+  :checksum "62ed3f0cd0c51158dcf7fbef1a610026",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001033-SC20170109194331.tar.gz"}
+ {:id "LE070120322001049-SC20170109194125",
+  :checksum "cc57391497f38e232ae058a1c587d00f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001049-SC20170109194125.tar.gz"}
+ {:id "LE070120322001097-SC20170109194011",
+  :checksum "873c9b0a6f8ef27f0c9a6e79c2da9ff4",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001097-SC20170109194011.tar.gz"}
+ {:id "LE070120322001113-SC20170109183929",
+  :checksum "6fb01ea9cbd20950891975d39c987c5b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001113-SC20170109183929.tar.gz"}
+ {:id "LE070120322001129-SC20170109183909",
+  :checksum "1e26f9b1c93296a3576a407cc5eb3f52",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001129-SC20170109183909.tar.gz"}
+ {:id "LE070120322001161-SC20170109183853",
+  :checksum "bab06193f5a48b684a8c97783c32fc24",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001161-SC20170109183853.tar.gz"}
+ {:id "LE070120322001177-SC20170109183844",
+  :checksum "9f642fbe450e48bde8b0a637144d7130",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001177-SC20170109183844.tar.gz"}
+ {:id "LE070120322001193-SC20170109183908",
+  :checksum "ea52b00bcdb0c3e62321b82d7260bfad",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001193-SC20170109183908.tar.gz"}
+ {:id "LE070120322001209-SC20170109184033",
+  :checksum "96a4bfe434d67db76ea2b1da041f7c11",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001209-SC20170109184033.tar.gz"}
+ {:id "LE070120322001241-SC20170109183853",
+  :checksum "7322c87f57841f77c7581551cde58f35",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001241-SC20170109183853.tar.gz"}
+ {:id "LE070120322001289-SC20170109184102",
+  :checksum "a27939e2ea6f7cb80ea31441efa449e4",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001289-SC20170109184102.tar.gz"}
+ {:id "LE070120322001305-SC20170109183901",
+  :checksum "819ff47375b7a6f60793bd15ac75a610",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001305-SC20170109183901.tar.gz"}
+ {:id "LE070120322001321-SC20170109183923",
+  :checksum "06423c0c51b1214bb14d9b1c8d306137",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001321-SC20170109183923.tar.gz"}
+ {:id "LE070120322001337-SC20170109183919",
+  :checksum "dee1edc79d805d2745a2d538c9897f16",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001337-SC20170109183919.tar.gz"}
+ {:id "LE070120322001353-SC20170109184010",
+  :checksum "bf13e613befd81c24a4a6330c98e0938",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322001353-SC20170109184010.tar.gz"}
+ {:id "LE070120322002004-SC20170109183911",
+  :checksum "80c798b250eb0aa44454d371f07da94a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002004-SC20170109183911.tar.gz"}
+ {:id "LE070120322002020-SC20170109183844",
+  :checksum "1e779e7e66998c6b9b7b193834e2d638",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002020-SC20170109183844.tar.gz"}
+ {:id "LE070120322002036-SC20170109184035",
+  :checksum "3ea1ad3291b3aaae1bb18154d0e32eab",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002036-SC20170109184035.tar.gz"}
+ {:id "LE070120322002068-SC20170109183920",
+  :checksum "20825fda96152decce2f3c25081a8415",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002068-SC20170109183920.tar.gz"}
+ {:id "LE070120322002100-SC20170109183844",
+  :checksum "2c07a47fc62a022dfc40b19dcf3f14f2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002100-SC20170109183844.tar.gz"}
+ {:id "LE070120322002116-SC20170109183842",
+  :checksum "44432f3b6d0b7f6c328c2fe321838896",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002116-SC20170109183842.tar.gz"}
+ {:id "LE070120322002148-SC20170109183905",
+  :checksum "658281e784fe5764b9d9060b9335bd91",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002148-SC20170109183905.tar.gz"}
+ {:id "LE070120322002180-SC20170109183827",
+  :checksum "309b9584c23acbdc96d1f20225ac5a61",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002180-SC20170109183827.tar.gz"}
+ {:id "LE070120322002196-SC20170109183936",
+  :checksum "85a04c9392b480d5c1386a62924064ff",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002196-SC20170109183936.tar.gz"}
+ {:id "LE070120322002212-SC20170109183751",
+  :checksum "09fe24971a7f1f6fdee69cf4a4c9dfd0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002212-SC20170109183751.tar.gz"}
+ {:id "LE070120322002228-SC20170109184018",
+  :checksum "a6b3914b1cd1405e164916738c64688a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002228-SC20170109184018.tar.gz"}
+ {:id "LE070120322002260-SC20170109183706",
+  :checksum "5efba43e45e48cb4d562681611ae891e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002260-SC20170109183706.tar.gz"}
+ {:id "LE070120322002276-SC20170109183757",
+  :checksum "56317440f8088b38ca2e5b9222670351",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002276-SC20170109183757.tar.gz"}
+ {:id "LE070120322002308-SC20170109184138",
+  :checksum "6d4b3220dc757423f31def9b13242431",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002308-SC20170109184138.tar.gz"}
+ {:id "LE070120322002324-SC20170109183845",
+  :checksum "d3c50e5c22ab7f281afc29e706e61f59",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322002324-SC20170109183845.tar.gz"}
+ {:id "LE070120322003007-SC20170109183753",
+  :checksum "868c7f5c593857520df8dfc54b6b520d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003007-SC20170109183753.tar.gz"}
+ {:id "LE070120322003023-SC20170109183824",
+  :checksum "61fdf7e6d91bb029f7cd85b797346c72",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003023-SC20170109183824.tar.gz"}
+ {:id "LE070120322003039-SC20170109183808",
+  :checksum "136667418bd468d006277e80df19a886",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003039-SC20170109183808.tar.gz"}
+ {:id "LE070120322003055-SC20170109184055",
+  :checksum "e9ba928f51b582adeb53a4945ebabb40",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003055-SC20170109184055.tar.gz"}
+ {:id "LE070120322003071-SC20170109183835",
+  :checksum "496d14c36c8cd4e5136c54edf9bde85a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003071-SC20170109183835.tar.gz"}
+ {:id "LE070120322003087-SC20170109183714",
+  :checksum "27d0552821b7291337970826030c8542",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003087-SC20170109183714.tar.gz"}
+ {:id "LE070120322003103-SC20170109183625",
+  :checksum "ce134640faf50b4f1d5670e1d8fc712e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003103-SC20170109183625.tar.gz"}
+ {:id "LE070120322003119-SC20170109183844",
+  :checksum "d705582b9b92c464db8f827bf857a0eb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003119-SC20170109183844.tar.gz"}
+ {:id "LE070120322003135-SC20170109183644",
+  :checksum "29bcf048de61c528a2420dada7a01ff0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003135-SC20170109183644.tar.gz"}
+ {:id "LE070120322003151-SC20170109183622",
+  :checksum "c8e4b12372d2c73b405517d845c60b5d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003151-SC20170109183622.tar.gz"}
+ {:id "LE070120322003199-SC20170109183546",
+  :checksum "c26d6d5cac5699b6092c589e091a17d2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003199-SC20170109183546.tar.gz"}
+ {:id "LE070120322003215-SC20170109183630",
+  :checksum "218184bb8273dc55edc74d55caf68ea4",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003215-SC20170109183630.tar.gz"}
+ {:id "LE070120322003231-SC20170109183552",
+  :checksum "a5cb30d0df3e653b308694adac972a77",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003231-SC20170109183552.tar.gz"}
+ {:id "LE070120322003263-SC20170109183535",
+  :checksum "0fbdd73bf942ab982fe09e4bc2c18b75",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003263-SC20170109183535.tar.gz"}
+ {:id "LE070120322003279-SC20170109183558",
+  :checksum "c7f10c353d6db9b6fa62d1f60654dc60",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003279-SC20170109183558.tar.gz"}
+ {:id "LE070120322003311-SC20170109183639",
+  :checksum "d6f4b9f82f77803860d2005d705f89be",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003311-SC20170109183639.tar.gz"}
+ {:id "LE070120322003327-SC20170109183619",
+  :checksum "fe08991db477d68029d17172f9cfe6cd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322003327-SC20170109183619.tar.gz"}
+ {:id "LE070120322004010-SC20170109183557",
+  :checksum "dd8dcecf28ba09656dcfebaa8933ada6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004010-SC20170109183557.tar.gz"}
+ {:id "LE070120322004026-SC20170109183605",
+  :checksum "a2e9512a19c7c2b6bfef394655bdaf80",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004026-SC20170109183605.tar.gz"}
+ {:id "LE070120322004042-SC20170109183558",
+  :checksum "ab8e1398e94955a13040749c35f4a105",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004042-SC20170109183558.tar.gz"}
+ {:id "LE070120322004058-SC20170109183733",
+  :checksum "dc12a5e345c91105fbcd55ad83d5c9bd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004058-SC20170109183733.tar.gz"}
+ {:id "LE070120322004074-SC20170109183941",
+  :checksum "fdce3e3f6dafa09b1744127580c5cff9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004074-SC20170109183941.tar.gz"}
+ {:id "LE070120322004122-SC20170109183909",
+  :checksum "186babc31446e62f45a8df7696dd401c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004122-SC20170109183909.tar.gz"}
+ {:id "LE070120322004154-SC20170109194131",
+  :checksum "4b925ec87f6b0add7312da1f924f5b15",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004154-SC20170109194131.tar.gz"}
+ {:id "LE070120322004170-SC20170109193944",
+  :checksum "253144735e0971bd7573807ae6bfccf2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004170-SC20170109193944.tar.gz"}
+ {:id "LE070120322004186-SC20170109194227",
+  :checksum "16d702b485373acdb34a4e7ca5b5f179",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004186-SC20170109194227.tar.gz"}
+ {:id "LE070120322004202-SC20170109194230",
+  :checksum "01fb4d24aa66e1ea61e631a4c49aee2d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004202-SC20170109194230.tar.gz"}
+ {:id "LE070120322004250-SC20170109194101",
+  :checksum "6306cf1a6ebb2080dd37b1af506b7653",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004250-SC20170109194101.tar.gz"}
+ {:id "LE070120322004266-SC20170109194103",
+  :checksum "03c79afb9318f2b78f3e7066396d3a20",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004266-SC20170109194103.tar.gz"}
+ {:id "LE070120322004282-SC20170109194115",
+  :checksum "6b90bc7c669ebf4c744fd5ba0ade0e57",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004282-SC20170109194115.tar.gz"}
+ {:id "LE070120322004314-SC20170109194209",
+  :checksum "db30f55e8719510ba0b50f74bc5fabfd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004314-SC20170109194209.tar.gz"}
+ {:id "LE070120322004362-SC20170109194209",
+  :checksum "f72656bfc68f52daa39e5ff871db59d2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322004362-SC20170109194209.tar.gz"}
+ {:id "LE070120322005028-SC20170109194138",
+  :checksum "fb2950cf7ee7e97b1d1e2cec5777c4f8",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005028-SC20170109194138.tar.gz"}
+ {:id "LE070120322005044-SC20170109194145",
+  :checksum "45a3463bcba463ee38588ca595964d3b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005044-SC20170109194145.tar.gz"}
+ {:id "LE070120322005076-SC20170109194118",
+  :checksum "032af64591ec7a8bd3f5de32ff56338c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005076-SC20170109194118.tar.gz"}
+ {:id "LE070120322005108-SC20170109194148",
+  :checksum "a00a38ba35d1161095b4a8f0f4160b26",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005108-SC20170109194148.tar.gz"}
+ {:id "LE070120322005124-SC20170109194140",
+  :checksum "066d3ea6f2f8e7bb81b5ae1bac7eb88e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005124-SC20170109194140.tar.gz"}
+ {:id "LE070120322005156-SC20170109194321",
+  :checksum "a42944c1a43cadb8e350601a7fbee5c9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005156-SC20170109194321.tar.gz"}
+ {:id "LE070120322005172-SC20170109194200",
+  :checksum "52bedc302fe74acd75e0dd11059c3305",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005172-SC20170109194200.tar.gz"}
+ {:id "LE070120322005204-SC20170109194148",
+  :checksum "ce892a8c6fdb9b5e570f7d91b649cc49",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005204-SC20170109194148.tar.gz"}
+ {:id "LE070120322005220-SC20170109194301",
+  :checksum "f4b76d1188697bebe7ccea256b0064c0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005220-SC20170109194301.tar.gz"}
+ {:id "LE070120322005236-SC20170109194156",
+  :checksum "54b8ec9204de20f8218614025d25c891",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005236-SC20170109194156.tar.gz"}
+ {:id "LE070120322005252-SC20170109194140",
+  :checksum "1022fc5f57b3658b705141f9c4d01a89",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005252-SC20170109194140.tar.gz"}
+ {:id "LE070120322005268-SC20170109194154",
+  :checksum "f464cca18a785b4b6d737d0d7358adc9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005268-SC20170109194154.tar.gz"}
+ {:id "LE070120322005300-SC20170109194248",
+  :checksum "ef8af638a2cf4c7b71d7c04fff16e493",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005300-SC20170109194248.tar.gz"}
+ {:id "LE070120322005316-SC20170109194219",
+  :checksum "ef13afba70b66f504f0db0aa79ac2362",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005316-SC20170109194219.tar.gz"}
+ {:id "LE070120322005332-SC20170109194314",
+  :checksum "73354e3f781a3d446290cf2995125310",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005332-SC20170109194314.tar.gz"}
+ {:id "LE070120322005348-SC20170109194430",
+  :checksum "58b968431a60745200e309c04bcb78fd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005348-SC20170109194430.tar.gz"}
+ {:id "LE070120322005364-SC20170109194210",
+  :checksum "457172cde36bce17b0febe55f31041bb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322005364-SC20170109194210.tar.gz"}
+ {:id "LE070120322006047-SC20170109194256",
+  :checksum "989f1e553dbf70862efb278a9ca45f4d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006047-SC20170109194256.tar.gz"}
+ {:id "LE070120322006063-SC20170109194315",
+  :checksum "555f090570c02be30063f91354a96ab6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006063-SC20170109194315.tar.gz"}
+ {:id "LE070120322006079-SC20170109194305",
+  :checksum "3f7dca72280273192cc9d9ada570f22f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006079-SC20170109194305.tar.gz"}
+ {:id "LE070120322006095-SC20170109194250",
+  :checksum "5cf45c61c001d9fb9561be99c0125c9a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006095-SC20170109194250.tar.gz"}
+ {:id "LE070120322006111-SC20170109194211",
+  :checksum "708123c4554f942c764cb6423237d04b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006111-SC20170109194211.tar.gz"}
+ {:id "LE070120322006127-SC20170109194204",
+  :checksum "347e9bd4221f69ca1cd93e87007800ab",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006127-SC20170109194204.tar.gz"}
+ {:id "LE070120322006143-SC20170109194218",
+  :checksum "06f5dbc76183bd99b3c2d699763e1433",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006143-SC20170109194218.tar.gz"}
+ {:id "LE070120322006191-SC20170109194219",
+  :checksum "765073be26fa214ae0a11a5371ae608e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006191-SC20170109194219.tar.gz"}
+ {:id "LE070120322006207-SC20170109194227",
+  :checksum "2c0a8bf0fee3dd2ffbc0517b51942d88",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006207-SC20170109194227.tar.gz"}
+ {:id "LE070120322006223-SC20170109194252",
+  :checksum "7e49b2f723a4398204748a06481d2769",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006223-SC20170109194252.tar.gz"}
+ {:id "LE070120322006255-SC20170109194410",
+  :checksum "11178f94b6e3be1921c0c7eeab7a645c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006255-SC20170109194410.tar.gz"}
+ {:id "LE070120322006271-SC20170109194253",
+  :checksum "34684916104bc11ff419dd8ba2f08604",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006271-SC20170109194253.tar.gz"}
+ {:id "LE070120322006287-SC20170109195519",
+  :checksum "fd8b09ce4cdcaf94406d1f5184d382c7",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006287-SC20170109195519.tar.gz"}
+ {:id "LE070120322006303-SC20170109195524",
+  :checksum "a0955a6c3f03f7e40563bef048411ddb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006303-SC20170109195524.tar.gz"}
+ {:id "LE070120322006351-SC20170109195206",
+  :checksum "030857a40140f383a5963c2441d461b2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322006351-SC20170109195206.tar.gz"}
+ {:id "LE070120322007002-SC20170109194744",
+  :checksum "22edfb50f55fe8cc3baa3f06b62f7ebf",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007002-SC20170109194744.tar.gz"}
+ {:id "LE070120322007034-SC20170109195211",
+  :checksum "aa15e52efb707b313748d643efaa5222",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007034-SC20170109195211.tar.gz"}
+ {:id "LE070120322007050-SC20170109195430",
+  :checksum "dbe70d8e8b8d610e8e46d4abd758a0c0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007050-SC20170109195430.tar.gz"}
+ {:id "LE070120322007098-SC20170109195341",
+  :checksum "4b424a8571fa1473bc4c7401c8a25d39",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007098-SC20170109195341.tar.gz"}
+ {:id "LE070120322007114-SC20170109195156",
+  :checksum "96cb004d7f7c968b2bb3e509d479bcc6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007114-SC20170109195156.tar.gz"}
+ {:id "LE070120322007130-SC20170109195359",
+  :checksum "75276ceabbf25abaa16cb7c071e26f2f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007130-SC20170109195359.tar.gz"}
+ {:id "LE070120322007146-SC20170109195223",
+  :checksum "1e602a8d240fafa40b255dba758b7924",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007146-SC20170109195223.tar.gz"}
+ {:id "LE070120322007162-SC20170109195227",
+  :checksum "bc664602de0b29d1a15a393af528d964",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007162-SC20170109195227.tar.gz"}
+ {:id "LE070120322007178-SC20170109184705",
+  :checksum "1b2af93cdabdb0e4921ce09f0c6a6475",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007178-SC20170109184705.tar.gz"}
+ {:id "LE070120322007194-SC20170109184712",
+  :checksum "e23646b8b5e16d4676d50d70b3afe083",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007194-SC20170109184712.tar.gz"}
+ {:id "LE070120322007210-SC20170109184750",
+  :checksum "1617e927a993d8afb49afde5cc961734",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007210-SC20170109184750.tar.gz"}
+ {:id "LE070120322007226-SC20170109184704",
+  :checksum "bc4fa7e9b7ef8409b105aa32dce49499",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007226-SC20170109184704.tar.gz"}
+ {:id "LE070120322007242-SC20170109184627",
+  :checksum "de82bc56840ce64669e589b97f395817",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007242-SC20170109184627.tar.gz"}
+ {:id "LE070120322007274-SC20170109184919",
+  :checksum "b53f49bcf1efd9545d12ce6545096587",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007274-SC20170109184919.tar.gz"}
+ {:id "LE070120322007290-SC20170109184729",
+  :checksum "2316a54301567f0a114739efbabefdeb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007290-SC20170109184729.tar.gz"}
+ {:id "LE070120322007306-SC20170109184845",
+  :checksum "8645a94a7bc87a08554e5802f6849d41",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007306-SC20170109184845.tar.gz"}
+ {:id "LE070120322007322-SC20170109184845",
+  :checksum "fe9421e494e9435d6a41529a619ef615",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007322-SC20170109184845.tar.gz"}
+ {:id "LE070120322007354-SC20170109184704",
+  :checksum "8b7285f227feed46cc73ddb987ddc62e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322007354-SC20170109184704.tar.gz"}
+ {:id "LE070120322008005-SC20170109184706",
+  :checksum "55535e3c1606e8d114b7d63066ffbbc6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008005-SC20170109184706.tar.gz"}
+ {:id "LE070120322008021-SC20170109184625",
+  :checksum "9e27524357ef8848c66872cc3de323ec",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008021-SC20170109184625.tar.gz"}
+ {:id "LE070120322008069-SC20170109184630",
+  :checksum "88d2d0c496d34e5947f1bb1a8ff1de7c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008069-SC20170109184630.tar.gz"}
+ {:id "LE070120322008085-SC20170109184554",
+  :checksum "45f77b89aff86ce99f0d6e165a12d59c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008085-SC20170109184554.tar.gz"}
+ {:id "LE070120322008101-SC20170109184539",
+  :checksum "96554bc39d546ec125b1bd31d7a4da86",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008101-SC20170109184539.tar.gz"}
+ {:id "LE070120322008117-SC20170109184615",
+  :checksum "7099d32bb3fc806b319386ab27cd8794",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008117-SC20170109184615.tar.gz"}
+ {:id "LE070120322008149-SC20170109184602",
+  :checksum "1f535c61530ac60a31709379c9deebcf",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008149-SC20170109184602.tar.gz"}
+ {:id "LE070120322008165-SC20170109184553",
+  :checksum "6777384e653eda5aa1aecefd43bae85f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008165-SC20170109184553.tar.gz"}
+ {:id "LE070120322008181-SC20170109184452",
+  :checksum "9271d75bbdfc2751a971bdf7ea89fff8",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008181-SC20170109184452.tar.gz"}
+ {:id "LE070120322008197-SC20170109184700",
+  :checksum "a1b5b66851db2fb61872ce5545389c26",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008197-SC20170109184700.tar.gz"}
+ {:id "LE070120322008213-SC20170109184559",
+  :checksum "5279f6df9c413fddcab2720b0a04498d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008213-SC20170109184559.tar.gz"}
+ {:id "LE070120322008229-SC20170109184153",
+  :checksum "bf33a9a7ce6babe55b157c16ae97c3e2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008229-SC20170109184153.tar.gz"}
+ {:id "LE070120322008245-SC20170109184529",
+  :checksum "af7e32378433ce625626153409df52bd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008245-SC20170109184529.tar.gz"}
+ {:id "LE070120322008261-SC20170109184555",
+  :checksum "d70c442c571dc844b54155d032f74168",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008261-SC20170109184555.tar.gz"}
+ {:id "LE070120322008277-SC20170109184600",
+  :checksum "fbaa578b57d7ee9a2d243ad88e76ce55",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008277-SC20170109184600.tar.gz"}
+ {:id "LE070120322008309-SC20170109184539",
+  :checksum "5ac649c003a5ae9c4f879cc89f9df1c2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008309-SC20170109184539.tar.gz"}
+ {:id "LE070120322008341-SC20170109184802",
+  :checksum "23f477d1a3aca0624ba3351d0156c3b0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008341-SC20170109184802.tar.gz"}
+ {:id "LE070120322008357-SC20170109184616",
+  :checksum "ee7a5bf96fe7711c270cf017b237459d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322008357-SC20170109184616.tar.gz"}
+ {:id "LE070120322009023-SC20170109184720",
+  :checksum "e40a9d831f9445870863e060f9961ac6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009023-SC20170109184720.tar.gz"}
+ {:id "LE070120322009039-SC20170109184635",
+  :checksum "3e9016838151e9e7cee3224f6a274308",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009039-SC20170109184635.tar.gz"}
+ {:id "LE070120322009055-SC20170109184510",
+  :checksum "69ec6c04c2cc1b936b90186ac94b2a1d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009055-SC20170109184510.tar.gz"}
+ {:id "LE070120322009071-SC20170109184542",
+  :checksum "d23f671d3816d9fc3894583b278d5604",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009071-SC20170109184542.tar.gz"}
+ {:id "LE070120322009087-SC20170109184530",
+  :checksum "8734cf74582b13c12dfa75b20ed4f1de",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009087-SC20170109184530.tar.gz"}
+ {:id "LE070120322009103-SC20170109184437",
+  :checksum "1b2286e3899c14c59a022c9c964d426b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009103-SC20170109184437.tar.gz"}
+ {:id "LE070120322009119-SC20170109184418",
+  :checksum "009c00f12983ef0601e0b2695f409d5b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009119-SC20170109184418.tar.gz"}
+ {:id "LE070120322009135-SC20170109184426",
+  :checksum "7b59608113217fc4cdbef240883d352b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009135-SC20170109184426.tar.gz"}
+ {:id "LE070120322009183-SC20170109184456",
+  :checksum "4f6067d78c0de6350df790a4d59a87dc",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009183-SC20170109184456.tar.gz"}
+ {:id "LE070120322009199-SC20170109184457",
+  :checksum "783e4ffeb066730baac975bb9692a4a0",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009199-SC20170109184457.tar.gz"}
+ {:id "LE070120322009215-SC20170109184523",
+  :checksum "b316ad8f962569c24ddfa8e9ba7ccb03",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009215-SC20170109184523.tar.gz"}
+ {:id "LE070120322009231-SC20170109184454",
+  :checksum "e0cd9985099c58bfb1e1511f8b15b3a9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009231-SC20170109184454.tar.gz"}
+ {:id "LE070120322009247-SC20170109184631",
+  :checksum "df4162453d3b6d5fb388ef3eb0c1b2da",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009247-SC20170109184631.tar.gz"}
+ {:id "LE070120322009263-SC20170109184443",
+  :checksum "f98b75a12c74927a417025277691331b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009263-SC20170109184443.tar.gz"}
+ {:id "LE070120322009295-SC20170109184555",
+  :checksum "9f9b0b8be1fbce305df5e3598533f96a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009295-SC20170109184555.tar.gz"}
+ {:id "LE070120322009311-SC20170109184526",
+  :checksum "cd27b1b9ebfc450d9cd2965ee01e5b10",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322009311-SC20170109184526.tar.gz"}
+ {:id "LE070120322010010-SC20170109184636",
+  :checksum "86786bb1ed439a201d85d7a9f5fcb98f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010010-SC20170109184636.tar.gz"}
+ {:id "LE070120322010026-SC20170109184528",
+  :checksum "8fb305fbf96451f8ef9e600824dc3f06",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010026-SC20170109184528.tar.gz"}
+ {:id "LE070120322010042-SC20170109184558",
+  :checksum "4f023e5783bfc58155b6079a0004ed27",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010042-SC20170109184558.tar.gz"}
+ {:id "LE070120322010106-SC20170109184359",
+  :checksum "729083f17eb9768b4209909dfcf7eb27",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010106-SC20170109184359.tar.gz"}
+ {:id "LE070120322010170-SC20170109184726",
+  :checksum "0a8f244a5090507878c55a6fd5d3abdd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010170-SC20170109184726.tar.gz"}
+ {:id "LE070120322010186-SC20170109195207",
+  :checksum "3fed922cf3de599bb67c0186fd7036cd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010186-SC20170109195207.tar.gz"}
+ {:id "LE070120322010202-SC20170109190840",
+  :checksum "f5fa200930a8b06957ce5beb1a9b5c61",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010202-SC20170109190840.tar.gz"}
+ {:id "LE070120322010218-SC20170109191047",
+  :checksum "0ecf45c991f9301c1c5a00aebb6d7325",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010218-SC20170109191047.tar.gz"}
+ {:id "LE070120322010250-SC20170109190845",
+  :checksum "cd0ea55bf7faf3a19fbc3d81348c95f4",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010250-SC20170109190845.tar.gz"}
+ {:id "LE070120322010266-SC20170109190842",
+  :checksum "449c200833938b0061101f4fa88aec94",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010266-SC20170109190842.tar.gz"}
+ {:id "LE070120322010282-SC20170109190932",
+  :checksum "3330f2f76277a64be8226cd7cd05765b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010282-SC20170109190932.tar.gz"}
+ {:id "LE070120322010298-SC20170109190906",
+  :checksum "a9462df98fd2855bdf4aa30243c392c6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010298-SC20170109190906.tar.gz"}
+ {:id "LE070120322010362-SC20170109191126",
+  :checksum "57812cce29b0d05616db5f3f740b818a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322010362-SC20170109191126.tar.gz"}
+ {:id "LE070120322011013-SC20170109191028",
+  :checksum "620cd9c17de0477ad907703e812a69ce",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011013-SC20170109191028.tar.gz"}
+ {:id "LE070120322011029-SC20170109190839",
+  :checksum "0a63ffb942817a9d43be942907a76828",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011029-SC20170109190839.tar.gz"}
+ {:id "LE070120322011045-SC20170109190846",
+  :checksum "73cf778bfd7abaeaa43a613e38c3c600",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011045-SC20170109190846.tar.gz"}
+ {:id "LE070120322011061-SC20170109191013",
+  :checksum "7248aec0ea3e529fe7b2e6b8733fd3a4",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011061-SC20170109191013.tar.gz"}
+ {:id "LE070120322011077-SC20170109190804",
+  :checksum "5ce93da6b104961ab253ff74a83f24fe",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011077-SC20170109190804.tar.gz"}
+ {:id "LE070120322011093-SC20170109190739",
+  :checksum "ef026d8b5f78ade97fd81f5c527a5ed9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011093-SC20170109190739.tar.gz"}
+ {:id "LE070120322011125-SC20170109190743",
+  :checksum "ea29c2604889b045503999d86f8bec95",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011125-SC20170109190743.tar.gz"}
+ {:id "LE070120322011141-SC20170109190857",
+  :checksum "88a473b47ccc841c9ec1cb51a9c64e77",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011141-SC20170109190857.tar.gz"}
+ {:id "LE070120322011157-SC20170109190857",
+  :checksum "f90ea7ec1470ae2d7445ff826e2e1f17",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011157-SC20170109190857.tar.gz"}
+ {:id "LE070120322011189-SC20170109190729",
+  :checksum "fe7db90abf5bbe72c549db07a7ae53c5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011189-SC20170109190729.tar.gz"}
+ {:id "LE070120322011221-SC20170109190735",
+  :checksum "1a553c733bd02f84bdead5cd572408f2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011221-SC20170109190735.tar.gz"}
+ {:id "LE070120322011237-SC20170109190719",
+  :checksum "56246eb7945e75475011b3dd32ad47e4",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011237-SC20170109190719.tar.gz"}
+ {:id "LE070120322011253-SC20170109190736",
+  :checksum "cd2fc101fee1b39ba94c98f57c93c06a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011253-SC20170109190736.tar.gz"}
+ {:id "LE070120322011269-SC20170109190747",
+  :checksum "57fb289307c0994b43e6c31c71cfcedc",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011269-SC20170109190747.tar.gz"}
+ {:id "LE070120322011301-SC20170109190730",
+  :checksum "5cbdb1706474856ac611a2df8e06ff12",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011301-SC20170109190730.tar.gz"}
+ {:id "LE070120322011317-SC20170109190716",
+  :checksum "8fa64d496ab260bdb5de7960b540b7db",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322011317-SC20170109190716.tar.gz"}
+ {:id "LE070120322012016-SC20170109190714",
+  :checksum "9f8a82b6559d61d4d8b02f831f3bd427",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012016-SC20170109190714.tar.gz"}
+ {:id "LE070120322012032-SC20170109190710",
+  :checksum "009cdbee4253e30936956aa5c5723036",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012032-SC20170109190710.tar.gz"}
+ {:id "LE070120322012080-SC20170109190724",
+  :checksum "e84d50b3a2393d0663551622c3d84a64",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012080-SC20170109190724.tar.gz"}
+ {:id "LE070120322012096-SC20170109190630",
+  :checksum "92aac5e37c0c1278c8b7bafa3d25922d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012096-SC20170109190630.tar.gz"}
+ {:id "LE070120322012112-SC20170109190721",
+  :checksum "25581010c78972cc878506f19aa0189e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012112-SC20170109190721.tar.gz"}
+ {:id "LE070120322012128-SC20170109190625",
+  :checksum "e36fa4d81db8622d6cfd2f914cf3619e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012128-SC20170109190625.tar.gz"}
+ {:id "LE070120322012144-SC20170109190704",
+  :checksum "cb4aaeab6e728df3af6a11d56a5bc04e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012144-SC20170109190704.tar.gz"}
+ {:id "LE070120322012176-SC20170109190641",
+  :checksum "4210f59ece7351bcc13920f641bd259e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012176-SC20170109190641.tar.gz"}
+ {:id "LE070120322012192-SC20170109190659",
+  :checksum "d40ccc31a5b1cb967c8b23213166cb4a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012192-SC20170109190659.tar.gz"}
+ {:id "LE070120322012224-SC20170109190635",
+  :checksum "e387b68773b82628143cbaf1ce0cb7ef",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012224-SC20170109190635.tar.gz"}
+ {:id "LE070120322012240-SC20170109190840",
+  :checksum "dd8921e64461e22a2f0ed82775cca745",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012240-SC20170109190840.tar.gz"}
+ {:id "LE070120322012256-SC20170109190617",
+  :checksum "7fdb5ad27cccf7bd4962567b14105376",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012256-SC20170109190617.tar.gz"}
+ {:id "LE070120322012288-SC20170109190623",
+  :checksum "d154a0cca85afb43d955b8cf4f180beb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012288-SC20170109190623.tar.gz"}
+ {:id "LE070120322012304-SC20170109190735",
+  :checksum "c7f04fdde13e4447b96005797e62876d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322012304-SC20170109190735.tar.gz"}
+ {:id "LE070120322013002-SC20170109190622",
+  :checksum "cbf8b3cf7fc4bf17090f28148a6d7911",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013002-SC20170109190622.tar.gz"}
+ {:id "LE070120322013018-SC20170109190731",
+  :checksum "9fae5553b742b2d13fab8ff174baf545",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013018-SC20170109190731.tar.gz"}
+ {:id "LE070120322013034-SC20170109190614",
+  :checksum "7e89a6209d61bc6db02bf58f183dfca6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013034-SC20170109190614.tar.gz"}
+ {:id "LE070120322013050-SC20170109190707",
+  :checksum "cc46775b4200a4719ad6e1b51d2b5191",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013050-SC20170109190707.tar.gz"}
+ {:id "LE070120322013082-SC20170109190640",
+  :checksum "d76edea91e87e3c6a74c94537c165162",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013082-SC20170109190640.tar.gz"}
+ {:id "LE070120322013098-SC20170109190632",
+  :checksum "f8ccb7251ec7505dad95a182470b5aac",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013098-SC20170109190632.tar.gz"}
+ {:id "LE070120322013114-SC20170109190606",
+  :checksum "b4af53031695b7623cf64085699b43cb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013114-SC20170109190606.tar.gz"}
+ {:id "LE070120322013130-SC20170109190535",
+  :checksum "1f9a467f24298de1dcbe7a1804f88bed",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013130-SC20170109190535.tar.gz"}
+ {:id "LE070120322013146-SC20170109190604",
+  :checksum "ffbb92c1f325cb43d86f40b2817e708b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013146-SC20170109190604.tar.gz"}
+ {:id "LE070120322013162-SC20170109190617",
+  :checksum "92d359348128b062c88e783e2ef1a8ad",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013162-SC20170109190617.tar.gz"}
+ {:id "LE070120322013210-SC20170109190615",
+  :checksum "9d57d05113c58fdd3ce1fe084eb3e546",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013210-SC20170109190615.tar.gz"}
+ {:id "LE070120322013226-SC20170109191039",
+  :checksum "c18f49b9df952efc1c7423f8fb09af64",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013226-SC20170109191039.tar.gz"}
+ {:id "LE070120322013258-SC20170109190856",
+  :checksum "fc16887be9a112549cb390e24dc4b04c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013258-SC20170109190856.tar.gz"}
+ {:id "LE070120322013274-SC20170109190538",
+  :checksum "e8feba94999f0ee21c9ed7d7ce68cea2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013274-SC20170109190538.tar.gz"}
+ {:id "LE070120322013306-SC20170109190607",
+  :checksum "d9d93e07543d608e3c5ef086136ce9a1",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013306-SC20170109190607.tar.gz"}
+ {:id "LE070120322013322-SC20170109190652",
+  :checksum "d50e737af9a71c923e5e48679623e228",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013322-SC20170109190652.tar.gz"}
+ {:id "LE070120322013338-SC20170109190611",
+  :checksum "452ea352187d72de2185db3c924b5d12",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013338-SC20170109190611.tar.gz"}
+ {:id "LE070120322013354-SC20170109190559",
+  :checksum "720fbe9682e8849ea83f43e55a1a4d69",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322013354-SC20170109190559.tar.gz"}
+ {:id "LE070120322014037-SC20170109190529",
+  :checksum "8f20280f3d2462a3ff8b70f862c88288",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014037-SC20170109190529.tar.gz"}
+ {:id "LE070120322014053-SC20170109190617",
+  :checksum "089e48050c4f17205920dc9ed66296fb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014053-SC20170109190617.tar.gz"}
+ {:id "LE070120322014085-SC20170109190632",
+  :checksum "31c2b5d895e3580019c118d8a338f0ef",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014085-SC20170109190632.tar.gz"}
+ {:id "LE070120322014101-SC20170109190512",
+  :checksum "6dce0e9a5752fba4dc8966d556d264fa",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014101-SC20170109190512.tar.gz"}
+ {:id "LE070120322014117-SC20170109190453",
+  :checksum "219f0b496f8d3bd47a4d0040043e6473",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014117-SC20170109190453.tar.gz"}
+ {:id "LE070120322014133-SC20170109190533",
+  :checksum "7a8fb2e1dc7ba1de8aa8fbe20a3b810f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014133-SC20170109190533.tar.gz"}
+ {:id "LE070120322014149-SC20170109190448",
+  :checksum "e7e8f205c0d90565e10268ec1350f559",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014149-SC20170109190448.tar.gz"}
+ {:id "LE070120322014165-SC20170109190452",
+  :checksum "0d0c1ed6dfb436cc36bc0499f232fe52",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014165-SC20170109190452.tar.gz"}
+ {:id "LE070120322014181-SC20170109190428",
+  :checksum "de63482534ef75d77c9b44d11b2f9f1f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014181-SC20170109190428.tar.gz"}
+ {:id "LE070120322014229-SC20170109190524",
+  :checksum "82b943d9d82f6787399d8c35b31cc9b3",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014229-SC20170109190524.tar.gz"}
+ {:id "LE070120322014245-SC20170109190513",
+  :checksum "ef7a8450860c0b875ac1389858058199",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014245-SC20170109190513.tar.gz"}
+ {:id "LE070120322014261-SC20170109190516",
+  :checksum "d3ff9c1329cfd5d3b9ccd80517b25dc1",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014261-SC20170109190516.tar.gz"}
+ {:id "LE070120322014293-SC20170109190448",
+  :checksum "af1f7240e8fe7f1e4d2da3e49f4ddf41",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014293-SC20170109190448.tar.gz"}
+ {:id "LE070120322014309-SC20170109190527",
+  :checksum "3fdc9918c8759fe49cc91c1082b6d333",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014309-SC20170109190527.tar.gz"}
+ {:id "LE070120322014325-SC20170109190530",
+  :checksum "ae06bdd9dd143790bafedd7f6f0c5d32",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014325-SC20170109190530.tar.gz"}
+ {:id "LE070120322014341-SC20170109190616",
+  :checksum "52ddddfc99951fd57ce04d2593201322",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322014341-SC20170109190616.tar.gz"}
+ {:id "LE070120322015008-SC20170109190526",
+  :checksum "cc6fe93bbf0b898c752dd4cd98ee78ba",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015008-SC20170109190526.tar.gz"}
+ {:id "LE070120322015056-SC20170109190451",
+  :checksum "f10847d6f8277d3bd46c6f01a77c0039",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015056-SC20170109190451.tar.gz"}
+ {:id "LE070120322015072-SC20170109190621",
+  :checksum "dae609afeea88e9c93d5e561eef62eef",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015072-SC20170109190621.tar.gz"}
+ {:id "LE070120322015088-SC20170109190404",
+  :checksum "29a01b26009eed63da86033b7ae8afee",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015088-SC20170109190404.tar.gz"}
+ {:id "LE070120322015120-SC20170109190333",
+  :checksum "0aa0421a891311ca5b831f92bd567175",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015120-SC20170109190333.tar.gz"}
+ {:id "LE070120322015168-SC20170109190339",
+  :checksum "0a19f0f0cfe5f7f34d901b24eb2572a2",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015168-SC20170109190339.tar.gz"}
+ {:id "LE070120322015184-SC20170109190314",
+  :checksum "71121d7a79287bd5b8fe3c1b174496a7",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015184-SC20170109190314.tar.gz"}
+ {:id "LE070120322015200-SC20170109190352",
+  :checksum "1f80889394b0d8b9515461e889b58b40",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015200-SC20170109190352.tar.gz"}
+ {:id "LE070120322015216-SC20170109190400",
+  :checksum "22515eeff3d8c6611e7233e4adceb651",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015216-SC20170109190400.tar.gz"}
+ {:id "LE070120322015232-SC20170109190311",
+  :checksum "15dd895ba6579c8e31be0be8e46c4235",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015232-SC20170109190311.tar.gz"}
+ {:id "LE070120322015248-SC20170109190311",
+  :checksum "55c469050ce82fddc678f92744ea0a02",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015248-SC20170109190311.tar.gz"}
+ {:id "LE070120322015264-SC20170109190349",
+  :checksum "5763c93db49b979c4c8ed48ac2f30d2d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015264-SC20170109190349.tar.gz"}
+ {:id "LE070120322015280-SC20170109190323",
+  :checksum "8b8ead4a476af16d427b69d8674c3bd9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015280-SC20170109190323.tar.gz"}
+ {:id "LE070120322015296-SC20170109190337",
+  :checksum "a06d01270c34d9ae2c084b8f91cf06d9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015296-SC20170109190337.tar.gz"}
+ {:id "LE070120322015312-SC20170109190352",
+  :checksum "aabadeb2858067045e18b251383d7ed9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015312-SC20170109190352.tar.gz"}
+ {:id "LE070120322015328-SC20170109190347",
+  :checksum "75cd758dc9c16a385f66b5224069f513",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015328-SC20170109190347.tar.gz"}
+ {:id "LE070120322015344-SC20170109190345",
+  :checksum "48b20c2e44ce67d059e59d95e8390ab7",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015344-SC20170109190345.tar.gz"}
+ {:id "LE070120322015360-SC20170109190357",
+  :checksum "b6f6a915f00668ece748a75c811e69a9",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322015360-SC20170109190357.tar.gz"}
+ {:id "LE070120322016011-SC20170109190400",
+  :checksum "2e2b40d29d23f23fe3881be6b3ef23f8",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322016011-SC20170109190400.tar.gz"}
+ {:id "LE070120322016043-SC20170109190411",
+  :checksum "d8eb815593158b56c1873886574ba6ed",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322016043-SC20170109190411.tar.gz"}
+ {:id "LE070120322016059-SC20170109190507",
+  :checksum "855838f1c9b04c1bc254fd5e08bae484",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322016059-SC20170109190507.tar.gz"}
+ {:id "LE070120322016091-SC20170109190311",
+  :checksum "cf0081b233df303a885e23e76d57166d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322016091-SC20170109190311.tar.gz"}
+ {:id "LE070120322016107-SC20170109190251",
+  :checksum "5545568556b1eef7a092d5bd3e635666",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322016107-SC20170109190251.tar.gz"}
+ {:id "LE070120322016171-SC20170109190303",
+  :checksum "1d9e01fd8654964dfc3886adeaf3b0ae",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322016171-SC20170109190303.tar.gz"}
+ {:id "LE070120322016203-SC20170109190239",
+  :checksum "6c029a9745b51cbd6909f51c296a7027",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322016203-SC20170109190239.tar.gz"}
+ {:id "LE070120322016219-SC20170109190259",
+  :checksum "8fa3f3e3487e0e65888c25f469ba8815",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322016219-SC20170109190259.tar.gz"}
+ {:id "LE070120322016235-SC20170109190325",
+  :checksum "db1c2034517fc78f58618e74218b3a58",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322016235-SC20170109190325.tar.gz"}
+ {:id "LE070120322016267-SC20170109190750",
+  :checksum "d83825d0aacc7e1d8c2888da6f5d38df",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322016267-SC20170109190750.tar.gz"}
+ {:id "LE070120322016299-SC20170109185635",
+  :checksum "8419aa3abacd1a2894435445894e3df3",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322016299-SC20170109185635.tar.gz"}
+ {:id "LE070120322016315-SC20170109185723",
+  :checksum "a7f19d14830739d41e2bdf92e882e4b6",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125834-097/LE070120322016315-SC20170109185723.tar.gz"}
+ {:id "LE070120322000303-SC20170108090051",
+  :checksum "9dc7a6576eff320756b5131422ddc52d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322000303-SC20170108090051.tar.gz"}
+ {:id "LE070120322001001-SC20170108090005",
+  :checksum "1be4a304d8bd0de408b3d374c5f39d2f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001001-SC20170108090005.tar.gz"}
+ {:id "LE070120322001017-SC20170108090033",
+  :checksum "4aa8e300b21c77a6f8169a0a3d869daf",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001017-SC20170108090033.tar.gz"}
+ {:id "LE070120322001033-SC20170108090255",
+  :checksum "0b75f177fe5f79f08462a894b5b3101f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001033-SC20170108090255.tar.gz"}
+ {:id "LE070120322001049-SC20170108090001",
+  :checksum "6c512955ed6a8a07a84abaffdbe366d8",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001049-SC20170108090001.tar.gz"}
+ {:id "LE070120322001097-SC20170108085918",
+  :checksum "618927be5c2b284dfadc664a1edd10cb",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001097-SC20170108085918.tar.gz"}
+ {:id "LE070120322001113-SC20170108085924",
+  :checksum "d8814b0bb2b066c347104af1ad66b54d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001113-SC20170108085924.tar.gz"}
+ {:id "LE070120322001129-SC20170108085853",
+  :checksum "2b3351a0fab6ee7f72e213528017e5f8",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001129-SC20170108085853.tar.gz"}
+ {:id "LE070120322001161-SC20170108085939",
+  :checksum "6330686c9ac879bdf375bb4b835e7b80",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001161-SC20170108085939.tar.gz"}
+ {:id "LE070120322001177-SC20170108085938",
+  :checksum "9c0fdcb5fc31bfb3cc86179750634ee5",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001177-SC20170108085938.tar.gz"}
+ {:id "LE070120322001193-SC20170108085911",
+  :checksum "e1992d35b121a132881d900f0a347345",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001193-SC20170108085911.tar.gz"}
+ {:id "LE070120322001209-SC20170108090052",
+  :checksum "4301a2467aaf88330caef7f5276d5728",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001209-SC20170108090052.tar.gz"}
+ {:id "LE070120322001241-SC20170108085936",
+  :checksum "b45d78fab4cfd2415a4aaa5658c57834",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001241-SC20170108085936.tar.gz"}
+ {:id "LE070120322001289-SC20170108085949",
+  :checksum "f36d40e0ac0518987f16f757fcae1705",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001289-SC20170108085949.tar.gz"}
+ {:id "LE070120322001305-SC20170108085955",
+  :checksum "0f6f9a400cb1a707224bd90fc50ba4a7",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001305-SC20170108085955.tar.gz"}
+ {:id "LE070120322001321-SC20170108084848",
+  :checksum "230f491c147f4c88c9c46a88138faa40",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001321-SC20170108084848.tar.gz"}
+ {:id "LE070120322001337-SC20170108084759",
+  :checksum "66dacfeb4f5ae5907dce29d60ec6e8dd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001337-SC20170108084759.tar.gz"}
+ {:id "LE070120322001353-SC20170108084953",
+  :checksum "493e18a382a40566652ef6e9467f0783",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322001353-SC20170108084953.tar.gz"}
+ {:id "LE070120322002004-SC20170108084854",
+  :checksum "19800926c4d64ab6ebccf947da1ed40e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322002004-SC20170108084854.tar.gz"}
+ {:id "LE070120322002020-SC20170108084851",
+  :checksum "899e90a18d0fd15925c7bcaa51cff90b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322002020-SC20170108084851.tar.gz"}
+ {:id "LE070120322002036-SC20170108085007",
+  :checksum "c16e0ac6daf192d695fa1f5643f0e06c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322002036-SC20170108085007.tar.gz"}
+ {:id "LE070120322002068-SC20170108084931",
+  :checksum "66997fef998ca2ec03f19cdddda4a12c",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322002068-SC20170108084931.tar.gz"}
+ {:id "LE070120322002100-SC20170108084816",
+  :checksum "702339eeebe66f3099b51a4f8acdbf74",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322002100-SC20170108084816.tar.gz"}
+ {:id "LE070120322002116-SC20170108084931",
+  :checksum "0effc9fea6f6ae6ec1ab263e7599c18d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322002116-SC20170108084931.tar.gz"}
+ {:id "LE070120322002148-SC20170108085038",
+  :checksum "352e1bb19cb3ad0a43058b5bba567051",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322002148-SC20170108085038.tar.gz"}
+ {:id "LE070120322002180-SC20170108084957",
+  :checksum "67cfd99ac683d529da16a18a275bd031",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322002180-SC20170108084957.tar.gz"}
+ {:id "LE070120322002196-SC20170108084938",
+  :checksum "d3a305695ddfb3dc4a0712b26c08f507",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322002196-SC20170108084938.tar.gz"}
+ {:id "LE070120322014261-SC20170108082259",
+  :checksum "91b39681c515ddef920347a36256605f",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322014261-SC20170108082259.tar.gz"}
+ {:id "LE070120322014293-SC20170108082315",
+  :checksum "8764cad98154a8e3bc5cba45ed3f228b",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322014293-SC20170108082315.tar.gz"}
+ {:id "LE070120322014309-SC20170108082312",
+  :checksum "b39a4ccd70d4807f8211e3f9779029bf",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322014309-SC20170108082312.tar.gz"}
+ {:id "LE070120322014325-SC20170108082537",
+  :checksum "e3cbf84cd0db906d32759bbb21ce0bf4",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322014325-SC20170108082537.tar.gz"}
+ {:id "LE070120322014341-SC20170108082255",
+  :checksum "c636aa567f6c83be6518bb35be1c54ed",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322014341-SC20170108082255.tar.gz"}
+ {:id "LE070120322015008-SC20170108082320",
+  :checksum "611a08eaf9fd8c1edb2ff71cb98a332e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015008-SC20170108082320.tar.gz"}
+ {:id "LE070120322015056-SC20170108082229",
+  :checksum "232115a86f50b1608aca300c863dd775",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015056-SC20170108082229.tar.gz"}
+ {:id "LE070120322015072-SC20170108082236",
+  :checksum "2411409a0a0eb0198213a680987123fd",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015072-SC20170108082236.tar.gz"}
+ {:id "LE070120322015088-SC20170108073433",
+  :checksum "95cb3f89a9cf42dab5f0f749670eee25",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015088-SC20170108073433.tar.gz"}
+ {:id "LE070120322015120-SC20170108073312",
+  :checksum "c96a09d09ab2c0a4362fab4100d07d9d",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015120-SC20170108073312.tar.gz"}
+ {:id "LE070120322015168-SC20170108073258",
+  :checksum "0886a401abffd7f53866acf1a3a37f6a",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015168-SC20170108073258.tar.gz"}
+ {:id "LE070120322015184-SC20170108073307",
+  :checksum "99e664dc8388a8cda41a399734ca1704",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015184-SC20170108073307.tar.gz"}
+ {:id "LE070120322015200-SC20170108073329",
+  :checksum "c3371d7607fa52df3bd1327b926b2193",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015200-SC20170108073329.tar.gz"}
+ {:id "LE070120322015216-SC20170108073405",
+  :checksum "d877e91a0be70d5bcf9dc64ffffe8bad",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015216-SC20170108073405.tar.gz"}
+ {:id "LE070120322015232-SC20170108073314",
+  :checksum "c7455ccde73ec809f2a3e9cc166e4650",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015232-SC20170108073314.tar.gz"}
+ {:id "LE070120322015248-SC20170108073337",
+  :checksum "d3f61af05f76a09c8b490a140a842e46",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015248-SC20170108073337.tar.gz"}
+ {:id "LE070120322015264-SC20170108073340",
+  :checksum "874b84876c2e1d57e67ba115b868f68e",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015264-SC20170108073340.tar.gz"}
+ {:id "LE070120322015280-SC20170108073335",
+  :checksum "1c9e3813c30b5f6231003eeb3057b314",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015280-SC20170108073335.tar.gz"}
+ {:id "LE070120322015296-SC20170108073343",
+  :checksum "8e3f985550299484c9a8c848364a5f69",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015296-SC20170108073343.tar.gz"}
+ {:id "LE070120322015312-SC20170108073356",
+  :checksum "6ac4b0a7011877305a1ddb573a7f1115",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015312-SC20170108073356.tar.gz"}
+ {:id "LE070120322015328-SC20170108073408",
+  :checksum "26381198eccad0211f78c857021744db",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015328-SC20170108073408.tar.gz"}
+ {:id "LE070120322015344-SC20170108073336",
+  :checksum "e6b513323739fb02f64cf93214bc0aa7",
+  :uri
+  "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/./clay.austin.ctr@usgs.gov-01052017-125646-884/LE070120322015344-SC20170108073336.tar.gz"}]
