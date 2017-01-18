@@ -84,11 +84,40 @@
       (:body)
       (json/decode)))
 
+;; A pattern for matching the scene-identifier from a URL.
+(def yoink #"\/([A-Z0-9-]+)\.tar.gz")
+
+;; A pattern for matching a mission-path-row, get the first match .
+(def mission-path-row #"(LT04[0-9]{6})|(LT05[0-9]{6})|(LE07[0-9]{6})|(LC8[0-9]{6})")
+
+(defn path-row
+  "Exctract path-row from `source` :uri"
+  [source]
+  (first (re-find mission-path-row (source :uri))))
+
+(defn make-source
+  "Turn a checksum and path into a `source` data-structure`"
+  [[checksum path]]
+  {:id (last (re-find yoink path))
+   :checksum checksum
+   :uri (str "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/" path)})
+
+(defn make-inventory
+  "Turn a list of checksum / data URLs into `source` data-structure"
+  [text]
+  (->> text
+       (re-seq #"\S+")
+       (partition 2)
+       (map #(make-source %))))
+
 (comment
-  (def base-url "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/washington/")
-  (def batch-list (base->batch base-url))
-  (save-batch-info batch-list 0)
-  #_(doall (map (partial save-batch-info batch-list) (range 17 48)))
-  #_(def app-url "http://localhost:5678/landsat/source/")
-  #_(map (partial put-source! app-url) source-list)
-  #_(map save-batch-info (take 1 batch-list) (iterate inc 1)))
+  "Chesapeake bay, batched by mission-path-row"
+  (def chesapeake-inventory (doall (make-inventory (slurp "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/chesapeake/output.txt"))))
+  (def chesapeake-grouped (group-by path-row chesapeake-inventory))
+  (pmap (fn [[path-row sources]] (save (format "chesapeake/%s.edn" path-row) sources)) chesapeake-grouped))
+
+(comment
+  "Washington state, batched by mission-path-row"
+  (def washington-inventory (doall (make-inventory (slurp "https://edclpdsftp.cr.usgs.gov/downloads/lcmap/sites/washington/output.txt"))))
+  (def washington-grouped (group-by path-row washington-inventory))
+  (pmap (fn [[path-row sources]] (save (format "washington/%s.edn" path-row) sources)) washington-grouped))
